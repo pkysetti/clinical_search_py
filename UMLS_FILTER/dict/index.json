@@ -1,0 +1,26 @@
+{
+  "release": "2026AA",
+  "split_by": "group",
+  "partitions": {
+    "conditions": {
+      "file": "conditions.json",
+      "concepts": 4,
+      "surface_forms": 13
+    },
+    "drugs": {
+      "file": "drugs.json",
+      "concepts": 2,
+      "surface_forms": 3
+    },
+    "findings": {
+      "file": "findings.json",
+      "concepts": 2,
+      "surface_forms": 4
+    },
+    "procedures": {
+      "file": "procedures.json",
+      "concepts": 1,
+      "surface_forms": 3
+    }
+  }
+}

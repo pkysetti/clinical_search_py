@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "source": "UMLS Metathesaurus",
+    "release": "2026AA",
+    "concept_count": 1,
+    "synonym_count": 3,
+    "source_vocabularies": "MTH,SNOMEDCT_US,MSH,NCI,RXNORM,LNC,ICD10CM,ICD9CM,HPO,MEDLINEPLUS,MTHSPL,CHV,OMIM",
+    "specificity_thresholds": {
+      "low": "<=3",
+      "medium": "<=7",
+      "high": ">7"
+    },
+    "partition": "procedures",
+    "kinds": [
+      "procedure"
+    ]
+  },
+  "concepts": [
+    {
+      "cui": "C0007203",
+      "canonical": "cardiopulmonary resuscitation",
+      "synonyms": [
+        "cardiac resuscitation",
+        "restart the heart"
+      ],
+      "abbreviations": [
+        "CPR"
+      ],
+      "brands": [],
+      "icd10": null,
+      "rxcui": null,
+      "category": "procedure",
+      "kind": "procedure",
+      "specificity": "low",
+      "semantic_types": [
+        "Therapeutic or Preventive Procedure"
+      ],
+      "sources": [
+        "CHV",
+        "MTH",
+        "SNOMEDCT_US"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+PATIENT: John M., DOB: 1958-03-14  |  MRN: 100421  |  ENCOUNTER: 2025-11-08
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Internal Medicine
+
+=== CHIEF COMPLAINT ===
+Patient presents with worsening burning pain and numbness in bilateral lower extremities over the past 6 months.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Mr. M. is a 67-year-old male with a 14-year history of poorly controlled type 2 diabetes mellitus (T2DM). He reports progressive burning, tingling, and numbness affecting both feet and lower legs, consistent with diabetic polyneuropathy. Symptoms are worse at night and have begun to interfere with sleep and ambulation. He also reports occasional episodes of dizziness when standing, suggestive of autonomic neuropathy. HbA1c on admission was 9.8%, indicating suboptimal glycemic control.
+
+=== PAST MEDICAL HISTORY ===
+- Type 2 diabetes mellitus (diagnosed 2011)
+- Hypertension (well-controlled on lisinopril 10mg daily)
+- Hyperlipidemia (on atorvastatin 40mg)
+- No prior history of stroke or myocardial infarction
+
+=== MEDICATIONS ===
+- Metformin 1000mg twice daily
+- Lisinopril 10mg daily
+- Atorvastatin 40mg nightly
+- Gabapentin 300mg three times daily (newly initiated for neuropathic pain)
+
+=== PHYSICAL EXAMINATION ===
+Vitals: BP 138/82, HR 74, Temp 98.6F, SpO2 97% on room air
+Neurological: Reduced sensation to light touch and pinprick in a stocking-glove distribution bilaterally. Absent ankle reflexes. Positive Romberg sign.
+Extremities: No ulceration. Pedal pulses present bilaterally but diminished. Mild bilateral lower extremity edema.
+
+=== LABORATORY RESULTS ===
+HbA1c: 9.8% (markedly elevated)
+Fasting glucose: 218 mg/dL
+Serum creatinine: 1.3 mg/dL (eGFR 58 mL/min/1.73m2 - CKD Stage 3a)
+Urine microalbumin: 145 mg/g (elevated, consistent with diabetic nephropathy)
+
+=== ASSESSMENT AND PLAN ===
+1. Diabetic peripheral neuropathy - severe, bilateral lower extremities. Initiated gabapentin for neuropathic pain. Referred to neurology for nerve conduction studies. Patient educated on foot care.
+2. Type 2 diabetes mellitus, poorly controlled. HbA1c 9.8%. Added basal insulin (glargine 10 units nightly). Endocrinology follow-up scheduled.
+3. Chronic kidney disease Stage 3a, likely diabetic nephropathy. Continue ACE inhibitor. Nephrology referral placed.
+4. Hypertension - controlled. Continue current regimen.
+
+=== DISCHARGE INSTRUCTIONS ===
+Patient instructed on daily foot inspection, glycemic monitoring, and insulin administration technique. Follow-up with primary care in 2 weeks, endocrinology in 4 weeks, neurology and nephrology in 6 weeks.
+
+Attending Physician: Dr. A. Patel, MD  |  Signed: 2025-11-08

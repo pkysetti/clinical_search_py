@@ -1,0 +1,46 @@
+PATIENT: Susan R., DOB: 1949-07-22  |  MRN: 200837  |  ENCOUNTER: 2025-10-15
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Cardiology
+
+=== CHIEF COMPLAINT ===
+Progressive shortness of breath, lower extremity swelling, and palpitations for 10 days.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Mrs. R. is a 76-year-old female with known congestive heart failure (CHF) with reduced ejection fraction (HFrEF, EF 35%) and persistent atrial fibrillation. She presents with worsening dyspnea on exertion (now at rest), bilateral ankle edema, and orthopnea requiring 3-pillow sleeping position. She reports palpitations with irregular heartbeat. Denies chest pain or syncope. BNP on admission was markedly elevated at 1840 pg/mL. Chest X-ray demonstrated cardiomegaly and bilateral pleural effusions consistent with decompensated heart failure.
+
+=== PAST MEDICAL HISTORY ===
+- Congestive heart failure with reduced ejection fraction (EF 35%)
+- Persistent atrial fibrillation - on anticoagulation
+- Hypertension (longstanding)
+- Hyperlipidemia
+- No prior myocardial infarction. Prior TIA 2022.
+
+=== MEDICATIONS ON ADMISSION ===
+- Carvedilol 12.5mg twice daily (beta-blocker)
+- Furosemide 40mg daily (loop diuretic)
+- Rivaroxaban 20mg daily (anticoagulation for AFib)
+- Lisinopril 5mg daily
+- Atorvastatin 40mg nightly
+
+=== PHYSICAL EXAMINATION ===
+Vitals: BP 152/94, HR 98 (irregularly irregular), RR 22, Temp 98.4F, SpO2 91% on room air -> 96% on 2L O2
+Cardiovascular: Irregular rhythm, S3 gallop present. JVD elevated to 12cm.
+Respiratory: Bilateral basal crackles. Decreased air entry at bases.
+Extremities: 3+ pitting edema bilateral lower extremities to the knees.
+
+=== LABORATORY AND IMAGING ===
+BNP: 1840 pg/mL (severely elevated)
+Troponin I: 0.04 ng/mL (mildly elevated, consistent with demand ischemia)
+Serum creatinine: 1.7 mg/dL
+INR: 2.3 (therapeutic)
+Echo: EF 30-35%, global hypokinesis, moderate mitral regurgitation, elevated filling pressures
+
+=== ASSESSMENT AND PLAN ===
+1. Decompensated congestive heart failure - IV furosemide initiated, transitioned to oral. Daily weights monitoring. Fluid and sodium restriction counseled.
+2. Atrial fibrillation with rapid ventricular response - rate controlled with IV metoprolol then transitioned to carvedilol. Continued anticoagulation.
+3. Hypertension - suboptimally controlled in setting of decompensation. Increased lisinopril to 10mg. Cardiology follow-up in 1 week.
+4. Prior TIA - continued anticoagulation for combined stroke prevention and AFib.
+
+=== DISCHARGE INSTRUCTIONS ===
+Patient to weigh daily. Call if weight increases >2 lbs in 24 hours or >5 lbs in 1 week. Low sodium diet reinforced. Follow-up cardiology in 1 week.
+
+Attending Physician: Dr. B. Chen, MD  |  Signed: 2025-10-15

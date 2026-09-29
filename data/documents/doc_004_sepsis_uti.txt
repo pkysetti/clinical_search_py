@@ -1,0 +1,46 @@
+PATIENT: Margaret T., DOB: 1945-05-08  |  MRN: 400562  |  ENCOUNTER: 2025-12-01
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Emergency Medicine / Internal Medicine
+
+=== CHIEF COMPLAINT ===
+Confusion, fever, and decreased urine output for 2 days.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Mrs. T. is an 80-year-old female with a history of recurrent urinary tract infections and chronic kidney disease (CKD Stage 2) presenting with altered mental status, high fever (103.2F), and urinary symptoms including dysuria and foul-smelling cloudy urine. Family reports she became increasingly confused over the past 48 hours. On arrival she met SIRS criteria and was classified as sepsis secondary to urosepsis / complicated urinary tract infection progressing to pyelonephritis.
+
+=== PAST MEDICAL HISTORY ===
+- Recurrent urinary tract infections (3 in the past year)
+- Chronic kidney disease Stage 2 (baseline creatinine 1.2 mg/dL)
+- Type 2 diabetes mellitus (well-controlled, HbA1c 6.8%)
+- Hypertension
+- No prior septic shock. No history of bacteremia.
+
+=== MEDICATIONS ON ADMISSION ===
+- Metformin 500mg twice daily
+- Amlodipine 10mg daily
+- Tamsulosin 0.4mg daily (for neurogenic bladder)
+
+=== PHYSICAL EXAMINATION ===
+Vitals: BP 88/54 (hypotensive on arrival), HR 118, RR 24, Temp 103.2F, SpO2 95% on room air
+General: Confused, lethargic, not oriented to place or time
+Abdomen: Costovertebral angle tenderness bilateral, right greater than left
+No focal neurological deficits
+
+=== LABORATORY AND IMAGING ===
+WBC: 22,400/uL with left shift
+Lactate: 3.1 mmol/L (elevated - sepsis marker)
+Serum creatinine: 2.1 mg/dL (elevated from baseline 1.2 - acute kidney injury on CKD)
+Blood cultures x2: E. coli bacteremia (sensitive to ceftriaxone)
+Urine culture: E. coli >100,000 CFU/mL (ESBL-producing, resistant to ciprofloxacin)
+Urinalysis: WBC >100/hpf, nitrites positive, bacteria numerous
+CT Abdomen/Pelvis: Bilateral renal parenchymal thickening, right perinephric fat stranding - pyelonephritis
+
+=== ASSESSMENT AND PLAN ===
+1. Sepsis secondary to E. coli urosepsis / pyelonephritis - IV fluid resuscitation with 30mL/kg crystalloid bolus. Started meropenem per ESBL protocol (ciprofloxacin resistant). Blood pressure responded to fluids; vasopressors not required. Source control: Urology consulted, no obstruction identified.
+2. Acute kidney injury on CKD - creatinine improved to 1.6 mg/dL at discharge. Metformin held during admission. Nephrology follow-up arranged.
+3. Delirium secondary to sepsis - resolved with treatment of underlying infection.
+4. Type 2 diabetes - maintained glycemic control with sliding scale insulin during admission.
+
+=== DISCHARGE INSTRUCTIONS ===
+Complete oral antibiotic course (ertapenem bridge then oral per sensitivities). Urology follow-up in 2 weeks to investigate recurrent UTI source. Restart metformin when creatinine stable. Primary care follow-up in 1 week.
+
+Attending Physician: Dr. D. Martinez, MD  |  Signed: 2025-12-01

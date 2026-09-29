@@ -1,0 +1,34 @@
+PATIENT: Norma J., DOB: 1965-04-12  |  MRN: 1010284  |  ENCOUNTER: 2025-11-01
+DOCUMENT TYPE: Radiology Report — CT Pulmonary Angiography (CTPA)  |  DEPARTMENT: Radiology
+ORDERING PHYSICIAN: Dr. K. Adeyemi, MD (Internal Medicine)  |  READING RADIOLOGIST: Dr. T. Nguyen, MD (Thoracic Radiology)
+
+CLINICAL INDICATION
+60-year-old female presenting with acute onset dyspnea, pleuritic right-sided chest pain, and tachycardia (HR 112 bpm). SpO2 91% on room air improving to 96% on 4L supplemental oxygen. D-dimer markedly elevated at 4,820 ng/mL. Lower extremity duplex ultrasound shows right popliteal DVT. Wells score pre-test probability: HIGH. Evaluate for pulmonary embolism.
+
+TECHNIQUE
+CT pulmonary angiography performed following intravenous administration of 80 mL iodinated contrast (Omnipaque 350) injected via right antecubital vein at 4 mL/sec using bolus tracking technique. Images acquired in a single breath-hold using a 128-slice multidetector CT scanner from lung apices through diaphragm at 1.25mm reconstructed slice thickness. Coronal and sagittal reformations also reviewed.
+
+FINDINGS
+Pulmonary arteries: There are filling defects within the right main pulmonary artery extending into the right upper, middle, and lower lobe pulmonary arterial branches. A large central thrombus is identified at the bifurcation of the right main pulmonary artery (saddle embolus component). Additional filling defects are noted in the right interlobar artery and multiple segmental arteries bilaterally. The left lower lobe segmental and subsegmental arteries demonstrate filling defects as well. In total, bilateral pulmonary emboli are identified with predominant right-sided burden.
+
+Right ventricle: The right ventricle is dilated with an RV:LV ratio of 1.4 (normal <0.9). Rightward bowing of the interventricular septum is identified, consistent with right heart strain. These findings are consistent with hemodynamically significant pulmonary embolism.
+
+Lung parenchyma: A peripheral wedge-shaped opacity is noted in the right lower lobe with associated pleural-based hyperdensity, consistent with a pulmonary infarct. A small right-sided pleural effusion is present. The remainder of the lung parenchyma demonstrates mild bibasilar atelectasis. No pneumothorax.
+
+Mediastinum: No lymphadenopathy. No mediastinal widening.
+
+Cardiac: Mild pericardial effusion. The aortic root and visualized thoracic aorta are normal in caliber.
+
+Bones and soft tissues: Incidental finding of a small 4mm right lower lobe pulmonary nodule — this is below the threshold for further workup per Fleischner Society guidelines in this age group and clinical context, but may be documented for future reference.
+
+IMPRESSION
+1. Bilateral pulmonary emboli, right greater than left, with right main pulmonary artery filling defect and saddle embolus component. Bilateral segmental and subsegmental involvement. This represents a MASSIVE/HIGH-RISK pulmonary embolism based on CT RV:LV ratio of 1.4 with interventricular septal bowing.
+2. CT evidence of acute right heart strain. Immediate cardiology and/or hematology consultation recommended.
+3. Right lower lobe pulmonary infarct with small right pleural effusion.
+4. Bibasilar atelectasis. Mild pericardial effusion.
+5. Incidental 4mm right lower lobe pulmonary nodule — below Fleischner threshold; no acute workup required.
+
+CRITICAL RESULT: Communicated to Dr. K. Adeyemi at 09:18 on 2025-11-01. Systemic thrombolysis and/or catheter-directed therapy discussed.
+
+Report electronically signed by: Dr. T. Nguyen, MD, Thoracic Radiology
+Report signed: 2025-11-01 at 09:20

@@ -1,0 +1,249 @@
+{
+  "concepts": [
+    {
+      "canonical": "myocardial infarction",
+      "synonyms": ["heart attack", "MI", "AMI", "STEMI", "NSTEMI", "acute MI", "cardiac infarction", "coronary thrombosis"],
+      "icd10": "I21",
+      "category": "cardiovascular",
+      "specificity": "high"
+    },
+    {
+      "canonical": "hypertension",
+      "synonyms": ["high blood pressure", "HTN", "elevated BP", "systolic hypertension", "arterial hypertension", "high BP"],
+      "icd10": "I10",
+      "category": "cardiovascular",
+      "specificity": "medium"
+    },
+    {
+      "canonical": "chest pain",
+      "synonyms": ["angina", "angina pectoris", "precordial pain", "chest discomfort", "chest tightness", "retrosternal pain"],
+      "icd10": "R07",
+      "category": "symptom",
+      "specificity": "medium"
+    },
+    {
+      "canonical": "type 2 diabetes mellitus",
+      "synonyms": ["type 2 diabetes", "T2DM", "T2 diabetes", "non-insulin dependent diabetes", "NIDDM", "adult onset diabetes", "diabetes mellitus type 2"],
+      "icd10": "E11",
+      "category": "endocrine",
+      "specificity": "high"
+    },
+    {
+      "canonical": "type 1 diabetes mellitus",
+      "synonyms": ["type 1 diabetes", "T1DM", "insulin dependent diabetes", "IDDM", "juvenile diabetes"],
+      "icd10": "E10",
+      "category": "endocrine",
+      "specificity": "high"
+    },
+    {
+      "canonical": "peripheral neuropathy",
+      "synonyms": ["neuropathy", "diabetic neuropathy", "polyneuropathy", "diabetic polyneuropathy", "peripheral nerve damage", "sensory neuropathy"],
+      "icd10": "G60",
+      "category": "neurological",
+      "specificity": "high"
+    },
+    {
+      "canonical": "chronic obstructive pulmonary disease",
+      "synonyms": ["COPD", "emphysema", "chronic bronchitis", "chronic obstructive lung disease", "COLD", "obstructive airways disease"],
+      "icd10": "J44",
+      "category": "respiratory",
+      "specificity": "high"
+    },
+    {
+      "canonical": "shortness of breath",
+      "synonyms": ["dyspnea", "dyspnoea", "breathlessness", "SOB", "difficulty breathing", "respiratory distress", "labored breathing", "air hunger"],
+      "icd10": "R06.0",
+      "category": "symptom",
+      "specificity": "medium"
+    },
+    {
+      "canonical": "pneumonia",
+      "synonyms": ["lung infection", "pulmonary infection", "community acquired pneumonia", "CAP", "lobar pneumonia", "bronchopneumonia"],
+      "icd10": "J18",
+      "category": "respiratory",
+      "specificity": "high"
+    },
+    {
+      "canonical": "atrial fibrillation",
+      "synonyms": ["AF", "AFib", "A-fib", "atrial flutter", "irregular heartbeat", "paroxysmal AF", "permanent AF"],
+      "icd10": "I48",
+      "category": "cardiovascular",
+      "specificity": "high"
+    },
+    {
+      "canonical": "heart failure",
+      "synonyms": ["congestive heart failure", "CHF", "cardiac failure", "left heart failure", "right heart failure", "systolic heart failure", "diastolic heart failure", "HFpEF", "HFrEF"],
+      "icd10": "I50",
+      "category": "cardiovascular",
+      "specificity": "high"
+    },
+    {
+      "canonical": "stroke",
+      "synonyms": ["cerebrovascular accident", "CVA", "ischemic stroke", "hemorrhagic stroke", "TIA", "transient ischemic attack", "brain attack", "cerebral infarction"],
+      "icd10": "I63",
+      "category": "neurological",
+      "specificity": "high"
+    },
+    {
+      "canonical": "chronic kidney disease",
+      "synonyms": ["CKD", "renal failure", "chronic renal failure", "renal insufficiency", "kidney disease", "end stage renal disease", "ESRD", "nephropathy"],
+      "icd10": "N18",
+      "category": "renal",
+      "specificity": "high"
+    },
+    {
+      "canonical": "sepsis",
+      "synonyms": ["blood poisoning", "septicemia", "septicaemia", "systemic infection", "bacteremia", "severe sepsis", "septic shock"],
+      "icd10": "A41",
+      "category": "infectious",
+      "specificity": "high"
+    },
+    {
+      "canonical": "urinary tract infection",
+      "synonyms": ["UTI", "bladder infection", "cystitis", "pyelonephritis", "kidney infection", "urosepsis"],
+      "icd10": "N39",
+      "category": "infectious",
+      "specificity": "high"
+    },
+    {
+      "canonical": "asthma",
+      "synonyms": ["bronchial asthma", "reactive airway disease", "RAD", "exercise induced asthma", "allergic asthma"],
+      "icd10": "J45",
+      "category": "respiratory",
+      "specificity": "high"
+    },
+    {
+      "canonical": "deep vein thrombosis",
+      "synonyms": ["DVT", "venous thrombosis", "blood clot in leg", "thrombophlebitis", "lower extremity DVT"],
+      "icd10": "I82",
+      "category": "vascular",
+      "specificity": "high"
+    },
+    {
+      "canonical": "pulmonary embolism",
+      "synonyms": ["PE", "blood clot in lung", "pulmonary thromboembolism", "lung clot"],
+      "icd10": "I26",
+      "category": "vascular",
+      "specificity": "high"
+    },
+    {
+      "canonical": "hypothyroidism",
+      "synonyms": ["underactive thyroid", "low thyroid", "thyroid deficiency", "myxedema", "Hashimoto thyroiditis"],
+      "icd10": "E03",
+      "category": "endocrine",
+      "specificity": "high"
+    },
+    {
+      "canonical": "hyperlipidemia",
+      "synonyms": ["high cholesterol", "dyslipidemia", "hypercholesterolemia", "elevated cholesterol", "high LDL", "mixed hyperlipidemia"],
+      "icd10": "E78",
+      "category": "metabolic",
+      "specificity": "medium"
+    },
+    {
+      "canonical": "osteoarthritis",
+      "synonyms": ["OA", "degenerative joint disease", "DJD", "wear and tear arthritis", "joint degeneration"],
+      "icd10": "M19",
+      "category": "musculoskeletal",
+      "specificity": "high"
+    },
+    {
+      "canonical": "rheumatoid arthritis",
+      "synonyms": ["RA", "autoimmune arthritis", "inflammatory arthritis", "rheumatoid disease"],
+      "icd10": "M05",
+      "category": "musculoskeletal",
+      "specificity": "high"
+    },
+    {
+      "canonical": "fever",
+      "synonyms": ["pyrexia", "febrile", "elevated temperature", "hyperthermia", "high temperature", "febrile illness"],
+      "icd10": "R50",
+      "category": "symptom",
+      "specificity": "low"
+    },
+    {
+      "canonical": "nausea",
+      "synonyms": ["nausea and vomiting", "N/V", "emesis", "vomiting", "queasiness"],
+      "icd10": "R11",
+      "category": "symptom",
+      "specificity": "low"
+    },
+    {
+      "canonical": "abdominal pain",
+      "synonyms": ["stomach pain", "belly pain", "epigastric pain", "abdominal discomfort", "stomach ache", "tummy pain"],
+      "icd10": "R10",
+      "category": "symptom",
+      "specificity": "low"
+    },
+    {
+      "canonical": "depression",
+      "synonyms": ["major depression", "MDD", "major depressive disorder", "depressive disorder", "clinical depression", "unipolar depression"],
+      "icd10": "F32",
+      "category": "psychiatric",
+      "specificity": "medium"
+    },
+    {
+      "canonical": "anxiety",
+      "synonyms": ["anxiety disorder", "generalized anxiety", "GAD", "panic disorder", "anxiety state", "nervousness"],
+      "icd10": "F41",
+      "category": "psychiatric",
+      "specificity": "medium"
+    },
+    {
+      "canonical": "metformin",
+      "synonyms": ["glucophage", "metformin hydrochloride", "fortamet", "glumetza"],
+      "icd10": null,
+      "category": "medication",
+      "specificity": "high"
+    },
+    {
+      "canonical": "lisinopril",
+      "synonyms": ["zestril", "prinivil", "ACE inhibitor"],
+      "icd10": null,
+      "category": "medication",
+      "specificity": "high"
+    },
+    {
+      "canonical": "aspirin",
+      "synonyms": ["ASA", "acetylsalicylic acid", "aspirin therapy", "low dose aspirin"],
+      "icd10": null,
+      "category": "medication",
+      "specificity": "high"
+    },
+    {
+      "canonical": "insulin",
+      "synonyms": ["insulin therapy", "insulin glargine", "lantus", "humalog", "novolog", "basal insulin", "bolus insulin"],
+      "icd10": null,
+      "category": "medication",
+      "specificity": "high"
+    },
+    {
+      "canonical": "hemoglobin A1c",
+      "synonyms": ["HbA1c", "A1c", "glycated hemoglobin", "glycosylated hemoglobin", "HBA1C"],
+      "icd10": null,
+      "category": "lab",
+      "specificity": "high"
+    },
+    {
+      "canonical": "creatinine",
+      "synonyms": ["serum creatinine", "Cr", "SCr", "creatinine level"],
+      "icd10": null,
+      "category": "lab",
+      "specificity": "high"
+    },
+    {
+      "canonical": "blood pressure",
+      "synonyms": ["BP", "systolic BP", "diastolic BP", "systolic pressure", "diastolic pressure", "blood pressure reading"],
+      "icd10": null,
+      "category": "vital",
+      "specificity": "low"
+    },
+    {
+      "canonical": "oxygen saturation",
+      "synonyms": ["SpO2", "O2 sat", "pulse oximetry", "oxygen level", "oxygen levels", "sats"],
+      "icd10": null,
+      "category": "vital",
+      "specificity": "medium"
+    }
+  ]
+}

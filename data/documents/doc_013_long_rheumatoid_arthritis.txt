@@ -1,0 +1,89 @@
+PATIENT: Eleanor V., DOB: 1956-03-08  |  MRN: 1314892  |  ENCOUNTER: 2025-10-07 to 2025-10-14
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Rheumatology / Internal Medicine
+ATTENDING PHYSICIAN: Dr. H. Kapoor, MD, FACR
+
+=== CHIEF COMPLAINT ===
+Acute exacerbation of rheumatoid arthritis with bilateral wrist and metacarpophalangeal joint swelling, warmth, and pain. Inability to perform activities of daily living. Fever 38.7°C. CRP markedly elevated.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Ms. V. is a 69-year-old female with a 22-year history of seropositive rheumatoid arthritis (RA) — RF positive, anti-CCP antibody strongly positive — presenting with a 10-day history of progressive worsening of bilateral wrist and hand joint swelling, marked morning stiffness lasting more than 3 hours, and severe pain limiting hand function. She reports difficulty gripping, dressing, and preparing meals. She also endorses fatigue and low-grade fevers at home. She denies any clear infectious precipitant — no recent upper respiratory infection, no urinary symptoms, no skin infection, no gastrointestinal illness.
+
+Her RA has been managed with methotrexate 20mg weekly and adalimumab (Humira) 40mg subcutaneous every two weeks, with her last adalimumab dose administered 10 days prior to admission. She has had two prior RA flares in the past 5 years, both responsive to corticosteroid bridging. She was previously trialed on hydroxychloroquine and sulfasalazine before transitioning to her current biologic regimen approximately 6 years ago with reasonable control.
+
+She has a significant comorbidity burden including hypothyroidism (on levothyroxine 100mcg daily), osteoporosis (on alendronate and calcium/vitamin D supplementation), hypertension (on amlodipine 10mg), and a history of peptic ulcer disease, for which she takes a proton pump inhibitor (omeprazole 20mg) with all NSAIDs strictly avoided. She has no history of cardiovascular disease, no prior joint replacement surgeries, and no history of serious infections on biologic therapy.
+
+On examination at admission, she was febrile at 38.7°C with heart rate 96 bpm, blood pressure 138/86, respiratory rate 16, and SpO2 97% on room air. She appeared uncomfortable and fatigued. Musculoskeletal exam revealed bilateral wrist synovitis with bogginess and warmth, swelling of bilateral second and third MCPs and PIPs, and reduced range of motion in both wrists (flexion/extension limited to approximately 20 degrees bilaterally). Bilateral grip strength markedly diminished. No skin rash, no subcutaneous nodules identified. No lymphadenopathy. No signs of septic arthritis in any single isolated joint.
+
+=== PAST MEDICAL HISTORY ===
+- Rheumatoid arthritis, seropositive (RF+, anti-CCP+), diagnosed 2003. Currently on methotrexate + adalimumab.
+- Hypothyroidism (diagnosed 2010) — on levothyroxine 100mcg daily, TSH well-controlled last checked 6 months ago.
+- Osteoporosis — DEXA scan 2024: T-score -2.8 lumbar spine, -2.4 femoral neck. On bisphosphonate therapy.
+- Hypertension — on amlodipine 10mg, well-controlled.
+- Peptic ulcer disease — on omeprazole 20mg daily. NSAIDs absolutely contraindicated.
+- No prior joint replacement surgeries. No prior biologic-associated infections.
+- No diabetes mellitus. No known malignancy. No prior DVT or pulmonary embolism.
+
+=== MEDICATIONS ON ADMISSION ===
+- Methotrexate 20mg weekly (Wednesday)
+- Folic acid 1mg daily (to reduce methotrexate toxicity)
+- Adalimumab (Humira) 40mg subcutaneous every 2 weeks
+- Levothyroxine 100mcg daily (taken fasting)
+- Alendronate 70mg weekly
+- Calcium carbonate 1250mg daily with meals
+- Cholecalciferol (Vitamin D3) 2000 IU daily
+- Amlodipine 10mg daily
+- Omeprazole 20mg daily
+- Acetaminophen 500mg every 6 hours as needed for pain (NSAID-free)
+
+=== PHYSICAL EXAMINATION ===
+General: Well-developed, well-nourished female appearing mildly distressed due to pain. Alert and oriented x3.
+Vitals: Temperature 38.7°C, HR 96 bpm, BP 138/86 mmHg, RR 16, SpO2 97% room air, Weight 62 kg.
+HEENT: Mild xerophthalmia noted bilaterally (dry eyes) — consistent with secondary Sjogren's features in RA. No oral ulcers.
+Neck: No lymphadenopathy. Thyroid not enlarged.
+Cardiovascular: Regular rate and rhythm. No murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally. No wheezing or crackles.
+Abdomen: Soft, non-tender. No hepatosplenomegaly.
+Musculoskeletal: As described in HPI — bilateral wrist synovitis, bilateral MCP and PIP synovitis (2nd and 3rd fingers bilaterally). DAS28-CRP score calculated at 6.1 (high disease activity). No single joint with disproportionate warmth, erythema, or tenderness to suggest septic arthritis.
+Skin: No psoriatic plaques. No purpura. No subcutaneous nodules. No injection site reactions.
+Neurological: No peripheral neuropathy symptoms. Grip strength 2/5 bilaterally.
+
+=== LABORATORY RESULTS ===
+CBC: WBC 11.4 x10^9/L (mild leukocytosis). Hemoglobin 10.6 g/dL (mild normocytic anemia — consistent with anemia of chronic disease). Platelets 478 x10^9/L (reactive thrombocytosis).
+CRP: 142 mg/L (markedly elevated; baseline CRP 8 mg/L on last clinic visit).
+ESR: 88 mm/hr.
+RF: 180 IU/mL (strongly positive).
+Anti-CCP: >340 U/mL (strongly positive).
+BMP: Sodium 137, Potassium 4.1, Creatinine 0.82 mg/dL (eGFR >90), Glucose 94. Normal liver function tests.
+Methotrexate toxicity panel: LFTs within normal limits. No cytopenias attributable to methotrexate.
+Blood cultures: 2 sets drawn — both NEGATIVE at 5 days. No bacteremia.
+Joint aspirate (right wrist performed by rheumatology): Synovial fluid WBC 18,400/mm3 with 72% neutrophils, consistent with inflammatory arthritis. Gram stain negative. Synovial fluid culture — pending at discharge, subsequently reported NEGATIVE. Crystals: no monosodium urate or calcium pyrophosphate crystals (no gout or pseudogout).
+TSH: 2.3 mIU/L (within normal range — thyroid well-controlled).
+Vitamin D 25-OH: 28 ng/mL (low-normal; supplementation continued).
+
+=== IMAGING ===
+Bilateral hand X-rays (AP and oblique): Periarticular osteopenia bilaterally. Multiple erosions at the 2nd and 3rd MCP joints bilaterally consistent with longstanding erosive RA. Joint space narrowing at bilateral wrists and MCPs. No acute fracture. No periosteal reaction to suggest infection.
+Chest X-ray: No pulmonary infiltrate. No rheumatoid lung nodules seen. No pleural effusion. Normal cardiac silhouette.
+
+=== HOSPITAL COURSE ===
+The clinical picture was consistent with an acute RA flare without superimposed infection. Blood cultures were negative. Synovial fluid culture ultimately returned negative. Infectious workup was unrevealing.
+
+Adalimumab was held during the admission given the febrile presentation and pending infection workup. Methotrexate was also held temporarily. High-dose corticosteroid therapy was initiated: IV methylprednisolone 1mg/kg/day for 3 days, transitioned to oral prednisone 40mg daily with planned taper. Significant symptomatic improvement was noted by hospital day 3, with reduction in wrist swelling, improved range of motion, and defervescence by day 2.
+
+Pain management was managed with acetaminophen and a short course of tramadol (NSAIDs avoided given peptic ulcer history). Rheumatology reassessed on day 5 and 7. Occupational therapy consulted for hand exercises and adaptive equipment.
+
+Given the severity of the flare on current biologic therapy, rheumatology discussed transitioning from adalimumab to a different mechanism — tocilizumab (IL-6 receptor inhibitor) — at follow-up, pending further evaluation and patient preference.
+
+Osteoporosis management reviewed: continued alendronate and supplementation. No new vertebral fractures on imaging. Endocrinology review deferred given stable TSH.
+
+=== ASSESSMENT AND PLAN ===
+1. Acute RA flare, high disease activity (DAS28-CRP 6.1) — treated with IV methylprednisolone then oral prednisone. Prednisone taper to be completed over 6 weeks (40mg → 30mg → 20mg → 10mg → 5mg → off). Methotrexate and adalimumab held during admission; to be restarted at rheumatology follow-up pending clinical response and infection clearance. Biologic switch to tocilizumab under consideration.
+2. Anemia of chronic disease secondary to active RA — no iron deficiency or B12/folate deficiency identified. No transfusion required. Expected to improve with RA disease control.
+3. Hypothyroidism — stable. TSH within range. Continue levothyroxine 100mcg.
+4. Osteoporosis — continue bisphosphonate and supplementation. High fracture risk given long-term corticosteroid use. Bone density monitoring in 12 months.
+5. Hypertension — stable on amlodipine. Continue current regimen.
+6. Peptic ulcer disease — proton pump inhibitor continued; NSAIDs strictly avoided.
+
+=== DISCHARGE INSTRUCTIONS ===
+Patient instructed to complete prednisone taper as prescribed. Follow-up with rheumatology in 2 weeks for reassessment and decision on biologic therapy. Synovial culture result to be communicated. Patient educated on signs of infection on immunosuppressive therapy (fever, chills, redness at injection site, wounds that do not heal). No adalimumab or methotrexate until cleared by rheumatology. Continue all other medications. Occupational therapy referral placed for outpatient hand therapy.
+
+Attending Physician: Dr. H. Kapoor, MD, FACR  |  Signed: 2025-10-14

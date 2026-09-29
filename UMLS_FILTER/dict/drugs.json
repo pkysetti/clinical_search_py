@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "source": "UMLS Metathesaurus",
+    "release": "2026AA",
+    "concept_count": 2,
+    "synonym_count": 3,
+    "source_vocabularies": "MTH,SNOMEDCT_US,MSH,NCI,RXNORM,LNC,ICD10CM,ICD9CM,HPO,MEDLINEPLUS,MTHSPL,CHV,OMIM",
+    "specificity_thresholds": {
+      "low": "<=3",
+      "medium": "<=7",
+      "high": ">7"
+    },
+    "partition": "drugs",
+    "kinds": [
+      "drug"
+    ]
+  },
+  "concepts": [
+    {
+      "cui": "C0002645",
+      "canonical": "amoxicillin",
+      "synonyms": [
+        "amoxycillin",
+        "p-hydroxyampicillin"
+      ],
+      "abbreviations": [],
+      "brands": [
+        "Amoxil"
+      ],
+      "icd10": null,
+      "rxcui": "723",
+      "category": "medication",
+      "kind": "drug",
+      "specificity": "unknown",
+      "semantic_types": [
+        "Antibiotic",
+        "Pharmacologic Substance"
+      ],
+      "sources": [
+        "MSH",
+        "MTH",
+        "RXNORM"
+      ]
+    },
+    {
+      "cui": "C0026549",
+      "canonical": "morphine sulfate",
+      "synonyms": [
+        "morphine sulphate"
+      ],
+      "abbreviations": [],
+      "brands": [
+        "MS Contin"
+      ],
+      "icd10": null,
+      "rxcui": "7052",
+      "category": "medication",
+      "kind": "drug",
+      "specificity": "unknown",
+      "semantic_types": [
+        "Pharmacologic Substance"
+      ],
+      "sources": [
+        "MTH",
+        "RXNORM"
+      ]
+    }
+  ]
+}

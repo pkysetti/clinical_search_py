@@ -1,0 +1,44 @@
+PATIENT: Robert K., DOB: 1952-11-30  |  MRN: 300119  |  ENCOUNTER: 2025-09-22
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Pulmonology
+
+=== CHIEF COMPLAINT ===
+Acute worsening of shortness of breath, productive cough, and fever for 4 days.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Mr. K. is a 72-year-old male with severe COPD (GOLD Stage III, FEV1 42% predicted) and a 50 pack-year smoking history (quit 8 years ago). He presents with acute exacerbation of COPD (AECOPD) superimposed with community-acquired pneumonia (CAP). He reports worsening dyspnea at rest, purulent productive cough with yellow-green sputum, fever to 101.8F, and decreased SpO2 to 84% on room air at home. Prior to admission he was using his albuterol rescue inhaler more than 4 times per day.
+
+=== PAST MEDICAL HISTORY ===
+- Severe COPD (GOLD Stage III)
+- Chronic bronchitis
+- Hypertension
+- No prior diagnosis of asthma
+- No history of pulmonary embolism or deep vein thrombosis
+
+=== MEDICATIONS ===
+- Tiotropium bromide 18mcg inhaled daily (LAMA)
+- Salmeterol/fluticasone 50/500 mcg inhaled twice daily (LABA/ICS)
+- Albuterol MDI as needed (rescue inhaler)
+- Amlodipine 5mg daily
+
+=== PHYSICAL EXAMINATION ===
+Vitals: BP 144/88, HR 108, RR 28, Temp 101.6F, SpO2 84% room air -> 92% on 2L O2 via nasal cannula
+Respiratory: Accessory muscle use. Prolonged expiratory phase. Diffuse bilateral expiratory wheezes. Decreased breath sounds at right base with dullness to percussion.
+No lower extremity edema. No JVD.
+
+=== LABORATORY AND IMAGING ===
+WBC: 16,400/uL (leukocytosis)
+CRP: 142 mg/L (elevated)
+Procalcitonin: 1.8 ng/mL (elevated)
+ABG: pH 7.34, pCO2 52, pO2 61, HCO3 28 (type 2 respiratory failure, partially compensated)
+Chest X-ray: Right lower lobe consolidation consistent with pneumonia. Hyperinflation and flattened diaphragms consistent with COPD.
+Sputum culture: Streptococcus pneumoniae (sensitive to amoxicillin-clavulanate)
+
+=== ASSESSMENT AND PLAN ===
+1. Acute exacerbation of COPD with community-acquired pneumonia. Started azithromycin and ceftriaxone (IV) per CAP protocol. Nebulised albuterol and ipratropium every 4 hours. IV methylprednisolone 40mg daily x5 days then oral prednisone taper.
+2. Hypoxic respiratory failure - supplemental O2 titrated to maintain SpO2 88-92% (COPD target). No requirement for mechanical ventilation.
+3. COPD - optimised maintenance inhaler regimen. Respiratory therapy and pulmonary rehab referral placed.
+
+=== DISCHARGE INSTRUCTIONS ===
+Complete antibiotic course (7 days total). Steroid taper as prescribed. SpO2 monitoring at home. Urgent follow-up pulmonology in 1 week. Smoking cessation resources provided.
+
+Attending Physician: Dr. C. Williams, MD  |  Signed: 2025-09-22

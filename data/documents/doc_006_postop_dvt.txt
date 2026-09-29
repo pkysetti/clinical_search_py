@@ -1,0 +1,40 @@
+PATIENT: Linda F., DOB: 1968-02-25  |  MRN: 600791  |  ENCOUNTER: 2025-07-18
+DOCUMENT TYPE: Clinical Note - Post-Operative Follow-Up  |  DEPARTMENT: Orthopaedic Surgery
+
+=== CHIEF COMPLAINT ===
+Left calf pain and swelling 8 days after total knee replacement.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Ms. F. is a 57-year-old female presenting 8 days post-op from left total knee replacement (TKA) for severe osteoarthritis. She reports new onset left calf pain, warmth, and swelling over the past 2 days. Pain is worse with dorsiflexion (positive Homans sign). She has been ambulatory with physiotherapy since post-op day 1 and was on enoxaparin DVT prophylaxis until 5 days post-op. Lower extremity duplex ultrasound confirmed left popliteal and femoral deep vein thrombosis (DVT).
+
+=== PAST MEDICAL HISTORY ===
+- Severe bilateral knee osteoarthritis (OA)
+- Hypertension
+- Obesity (BMI 34)
+- No prior history of DVT or pulmonary embolism
+- No known thrombophilia
+
+=== MEDICATIONS ===
+- Amlodipine 5mg daily
+- Celecoxib 200mg twice daily (short-term for post-op pain)
+- Enoxaparin 40mg daily (DVT prophylaxis - discontinued 5 days post-op)
+
+=== PHYSICAL EXAMINATION ===
+Vitals: BP 136/84, HR 80, RR 16, Temp 98.5F, SpO2 98% room air
+Left lower extremity: Significant calf swelling with circumference 4cm greater than right. Calf tenderness on palpation. Positive Homans sign. Mild erythema and warmth.
+No respiratory distress. No pleuritic chest pain. No tachycardia suggesting pulmonary embolism.
+
+=== IMAGING ===
+Lower extremity duplex ultrasound: Acute non-occlusive left popliteal DVT extending into left femoral vein. Right leg: no DVT.
+CT pulmonary angiography ordered given post-surgical status: No pulmonary embolism identified.
+
+=== ASSESSMENT AND PLAN ===
+1. Acute left lower extremity DVT (popliteal and femoral) - post-operative complication following total knee arthroplasty. Initiated therapeutic anticoagulation: rivaroxaban 15mg twice daily x21 days then 20mg daily for minimum 3 months.
+2. History of knee osteoarthritis - bilateral, now post-op left TKA. Continued physiotherapy. Right knee TKA deferred pending resolution of DVT and anticoagulation stability.
+3. Hypertension - continue amlodipine.
+4. DVT risk factors counselled: obesity, prolonged surgery, post-operative immobility. Graduated compression stockings prescribed.
+
+=== FOLLOW-UP ===
+Repeat lower extremity duplex ultrasound at 6 weeks. Orthopaedic follow-up in 2 weeks. Haematology referral placed to rule out underlying thrombophilia given unexpected DVT on prophylaxis.
+
+Attending Physician: Dr. F. Thompson, MD  |  Signed: 2025-07-18

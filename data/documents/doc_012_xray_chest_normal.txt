@@ -1,0 +1,34 @@
+PATIENT: Deborah S., DOB: 1978-08-14  |  MRN: 1213567  |  ENCOUNTER: 2025-09-10
+DOCUMENT TYPE: Radiology Report — Chest X-Ray (PA and Lateral)  |  DEPARTMENT: Radiology
+ORDERING PHYSICIAN: Dr. P. Mehta, MD (Primary Care)  |  READING RADIOLOGIST: Dr. C. Williams, MD
+
+CLINICAL INDICATION
+47-year-old female presenting for pre-operative chest radiograph prior to elective cholecystectomy. Non-smoker. No known cardiopulmonary disease. No current respiratory symptoms. No fever. Blood pressure 122/78. SpO2 99% on room air.
+
+TECHNIQUE
+Standard two-view chest radiograph, posteroanterior and lateral projections, performed in the upright position in the radiology department. No comparison studies available.
+
+FINDINGS
+Heart: The cardiac silhouette is normal in size. The cardiothoracic ratio is within normal limits at approximately 0.45. Cardiac borders are well-defined bilaterally.
+
+Mediastinum: The mediastinum is of normal width. The trachea is midline. The aortic knob is normal in contour. No mediastinal widening or shift.
+
+Lungs: Both lung fields are clear. No consolidation, infiltrate, or airspace opacity identified in either lung. No pleural effusion. No pneumothorax. The costophrenic angles are sharp bilaterally. No pulmonary vascular congestion or perihilar fullness.
+
+Hila: The hilar structures are normal in size and position. No hilar lymphadenopathy.
+
+Pleura: No pleural thickening. No pleural effusion bilaterally. The pleural surfaces are smooth.
+
+Diaphragm: Both hemidiaphragms are well-defined and at normal position. No free air under the diaphragm.
+
+Bones: The visualized thoracic spine, ribs, clavicles, and scapulae show no acute fracture or destructive lesion. No scoliosis noted.
+
+Soft tissues: Soft tissues of the chest wall are unremarkable. No subcutaneous emphysema.
+
+IMPRESSION
+1. No acute cardiopulmonary abnormality.
+2. Normal cardiac silhouette. Normal lung fields bilaterally. No evidence of consolidation, pleural effusion, pneumothorax, or pulmonary vascular congestion.
+3. Pre-operative chest radiograph is within normal limits. No findings to contraindicate elective surgery from a pulmonary or cardiac standpoint.
+
+Report electronically signed by: Dr. C. Williams, MD, Diagnostic Radiology
+Report signed: 2025-09-10 at 09:44

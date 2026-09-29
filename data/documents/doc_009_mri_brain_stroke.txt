@@ -1,0 +1,37 @@
+PATIENT: Harold B., DOB: 1949-11-30  |  MRN: 905523  |  ENCOUNTER: 2025-08-05
+DOCUMENT TYPE: Radiology Report — MRI Brain with DWI  |  DEPARTMENT: Radiology / Neurology
+ORDERING PHYSICIAN: Dr. C. Osei, MD (Neurology)  |  READING RADIOLOGIST: Dr. S. Patel, MD (Neuroradiology)
+
+CLINICAL INDICATION
+75-year-old male with acute onset left-sided facial droop, left arm and leg weakness, and dysarthria beginning approximately 2.5 hours prior to imaging. History of hypertension, atrial fibrillation on anticoagulation (apixaban — last dose reported as 14 hours ago). NIHSS score 12 on arrival. Code Stroke activated. Evaluate for acute ischemic stroke.
+
+TECHNIQUE
+Multisequence MRI of the brain was performed on a 3 Tesla scanner without gadolinium contrast. Sequences obtained: axial DWI (diffusion-weighted imaging) with ADC map, axial FLAIR (fluid-attenuated inversion recovery), axial T2, axial T2*, axial T1, and axial SWI (susceptibility-weighted imaging). Comparison: CT head without contrast performed 35 minutes prior was normal.
+
+FINDINGS
+Diffusion-weighted imaging / ADC map: There is restricted diffusion in the right MCA (middle cerebral artery) territory involving the right posterior frontal lobe, right parietal lobe, and right insular cortex. The region of restricted diffusion measures approximately 4.2 x 3.1 cm on axial imaging and corresponds to an acute ischemic infarction. ADC values are markedly reduced in this region, confirming cytotoxic edema consistent with hyperacute/acute infarction.
+
+FLAIR / T2: The corresponding region shows subtle increased FLAIR signal consistent with early ischemic change. No evidence of vasogenic edema or established infarction at this time point, which is consistent with the acute timing of symptom onset.
+
+T2* / SWI: No hemorrhagic transformation identified. No blooming artifact to suggest significant hemosiderin deposition or microhemorrhages in the infarct territory. Incidental punctate microhemorrhages noted bilaterally in the deep white matter, consistent with hypertensive microangiopathy.
+
+T1: No intrinsic T1 shortening to suggest subacute hemorrhage. Cortical ribbon appears intact at this early stage.
+
+Cortex and white matter: Mild generalized cerebral atrophy consistent with age. Scattered T2/FLAIR white matter hyperintensities in the periventricular and subcortical regions, consistent with chronic small vessel ischemic disease (Fazekas grade 2).
+
+Ventricles and sulci: Mild ventriculomegaly and sulcal prominence consistent with age-related volume loss. No hydrocephalus.
+
+Posterior fossa: Cerebellum and brainstem appear unremarkable. No posterior fossa infarction.
+
+Vascular flow voids: Absent right M1 and M2 flow voids, suggesting occlusion of the right middle cerebral artery. Normal flow void appreciated in the left MCA, both ACAs, and the basilar artery.
+
+IMPRESSION
+1. Acute ischemic infarction of the right MCA territory involving the right posterior frontal lobe, parietal lobe, and insular cortex — measuring approximately 4.2 x 3.1 cm. Findings are consistent with acute ischemic stroke in the hyperacute window.
+2. Absent right MCA flow voids on MRI suggesting right M1/M2 occlusion. Urgent CT angiography of the head and neck recommended for vessel characterization and eligibility assessment for mechanical thrombectomy.
+3. No hemorrhagic transformation. No significant midline shift or herniation.
+4. Background chronic small vessel ischemic disease (Fazekas grade 2) and hypertensive microangiopathy. Age-appropriate cerebral volume loss.
+
+CRITICAL RESULT: Findings communicated directly to Dr. C. Osei (Neurology) and stroke team at 16:42 on 2025-08-05. Mechanical thrombectomy considered.
+
+Report electronically signed by: Dr. S. Patel, MD, Neuroradiology
+Report signed: 2025-08-05 at 16:44

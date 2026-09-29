@@ -1,0 +1,34 @@
+PATIENT: Patricia W., DOB: 1970-06-18  |  MRN: 803917  |  ENCOUNTER: 2025-09-22
+DOCUMENT TYPE: Radiology Report — CT Head Without Contrast  |  DEPARTMENT: Radiology
+ORDERING PHYSICIAN: Dr. L. Huang, MD (Emergency Medicine)  |  READING RADIOLOGIST: Dr. A. Rosenberg, MD
+
+CLINICAL INDICATION
+55-year-old female with sudden onset severe headache described as "worst headache of my life." Rule out subarachnoid hemorrhage or intracranial pathology. History of hypertension and migraines.
+
+TECHNIQUE
+Non-contrast CT of the brain performed using a 64-slice multidetector CT scanner. Axial images obtained at 5mm slice thickness through the posterior fossa and 5mm through the cerebral hemispheres. No intravenous contrast was administered. Comparison: No prior brain imaging available in the system.
+
+FINDINGS
+Brain parenchyma: The cerebral hemispheres are symmetric in size and attenuation. There is no focal area of hyperdensity or hypodensity within the brain parenchyma to suggest acute hemorrhage, infarction, or mass effect. Gray-white matter differentiation is preserved throughout.
+
+Subarachnoid spaces: There is no hyperdensity within the subarachnoid spaces, basal cisterns, or sulci to suggest subarachnoid hemorrhage.
+
+Ventricles: The lateral ventricles, third ventricle, and fourth ventricle are normal in size and configuration. There is no evidence of hydrocephalus. The choroid plexus calcifications are noted bilaterally, which is a normal finding.
+
+Posterior fossa: The cerebellum and brainstem appear unremarkable. No mass or hemorrhage identified.
+
+Calvarium: The bony calvarium is intact. No calvarial fractures identified. The visualized paranasal sinuses and mastoid air cells are clear.
+
+Midline structures: The midline is not shifted. The falx cerebri and tentorium cerebelli are unremarkable.
+
+Cerebrovascular: No hyperdense vessel to suggest acute thrombus or vascular malformation on this non-contrast study.
+
+IMPRESSION
+1. No acute intracranial hemorrhage, including no subarachnoid hemorrhage identified on this non-contrast CT study.
+2. No acute territorial infarction, mass, or mass effect.
+3. Normal-appearing CT of the brain without contrast.
+
+Note: CT of the head has approximately 98% sensitivity for subarachnoid hemorrhage within 12 hours of onset, declining thereafter. If clinical suspicion for SAH remains high despite normal CT, lumbar puncture for xanthochromia and/or CT angiography of the head and neck should be considered per clinical judgment.
+
+Report electronically signed by: Dr. A. Rosenberg, MD, Neuroradiology
+Report signed: 2025-09-22 at 03:18

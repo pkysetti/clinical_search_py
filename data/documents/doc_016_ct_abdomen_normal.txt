@@ -1,0 +1,44 @@
+PATIENT: Marcus L., DOB: 1980-02-22  |  MRN: 1617408  |  ENCOUNTER: 2025-10-20
+DOCUMENT TYPE: Radiology Report — CT Abdomen and Pelvis with Contrast  |  DEPARTMENT: Radiology
+ORDERING PHYSICIAN: Dr. S. Obi, MD (Emergency Medicine)  |  READING RADIOLOGIST: Dr. R. Garcia, MD
+
+CLINICAL INDICATION
+45-year-old male presenting with acute onset right lower quadrant abdominal pain, nausea, and low-grade fever for 18 hours. WBC 11.2 x10^9/L. CRP 38 mg/L. Clinical concern for acute appendicitis. Evaluate appendix and exclude other intra-abdominal pathology.
+
+TECHNIQUE
+Contrast-enhanced CT of the abdomen and pelvis performed following intravenous administration of 100 mL iohexol (Omnipaque 350) at 3 mL/sec via right antecubital access using automated bolus timing. Portal venous phase images acquired from lung bases through symphysis pubis at 3mm slice thickness. Oral contrast: 500 mL of water administered 30 minutes prior. Coronal and sagittal reformations reviewed. Comparison: No prior abdominal imaging available.
+
+FINDINGS
+
+Liver: Normal size. Homogeneous parenchymal attenuation. No focal lesion, mass, cyst, or hypodensity identified. Hepatic veins and portal vein are patent and normally opacifying. No biliary ductal dilatation. No perihepatic free fluid.
+
+Gallbladder and biliary system: The gallbladder is normal in size and wall thickness. No gallstones, sludge, or pericholecystic fluid. The common bile duct measures 4 mm in diameter (normal). No intra- or extrahepatic biliary ductal dilatation.
+
+Spleen: Normal size (10.2 cm in long axis). Homogeneous attenuation. No focal splenic lesion. No perisplenic fluid.
+
+Pancreas: Normal size and morphology. No pancreatic ductal dilatation. No peripancreatic stranding or fluid collection. No focal pancreatic mass or cystic lesion.
+
+Adrenal glands: Both adrenal glands are normal in morphology and attenuation. No adrenal mass.
+
+Kidneys: Both kidneys are normal in size, shape, and attenuation with homogeneous enhancement. No hydronephrosis. No renal calculus. No perinephric stranding. No renal mass.
+
+Aorta and vessels: The abdominal aorta is normal in caliber throughout. No aneurysmal dilatation. Celiac axis, SMA, and IMA origins are patent. No vascular anomaly.
+
+Appendix: The appendix is visualized in its entirety. It is located in a retrocecal position. The appendix measures 6 mm in maximal outer diameter with a wall thickness of 2 mm. The lumen is partially decompressed with a small amount of intraluminal air. No appendicolith identified. No periappendiceal fat stranding. No periappendiceal fluid collection or abscess. No evidence of perforation. Findings are NOT consistent with acute appendicitis.
+
+Bowel: The small bowel loops are normal in caliber and wall thickness throughout. No small bowel obstruction. No bowel wall thickening or pneumatosis. The colon is normal in caliber and wall thickness. No colonic diverticula. No free intraperitoneal air.
+
+Lymph nodes: A cluster of mildly prominent mesenteric lymph nodes measuring up to 8 mm in short axis is identified in the right lower quadrant adjacent to the ileocecal region. No lymph node exceeds 10 mm in short axis. This is a non-specific finding — mesenteric adenitis is a consideration in the setting of the patient's symptoms.
+
+Pelvis: No pelvic free fluid. No pelvic lymphadenopathy. Prostate is normal in size.
+
+Bones: No acute osseous abnormality. No lytic or sclerotic lesion. Mild degenerative changes at the L4-L5 and L5-S1 levels are noted incidentally.
+
+IMPRESSION
+1. No acute appendicitis. The appendix is normal in caliber (6 mm) with no periappendiceal fat stranding, fluid, or appendicolith.
+2. Mildly prominent right lower quadrant mesenteric lymph nodes (up to 8 mm short axis) — non-specific, may represent reactive mesenteric adenitis as the etiology of the patient's right lower quadrant pain.
+3. No other acute intra-abdominal pathology identified. No free air, no obstruction, no abscess, no solid organ injury.
+4. Incidental mild lumbar degenerative disc disease at L4-5 and L5-S1 — clinically correlate.
+
+Report electronically signed by: Dr. R. Garcia, MD, Abdominal Radiology
+Report signed: 2025-10-20 at 22:15

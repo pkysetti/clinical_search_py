@@ -1,0 +1,76 @@
+PATIENT: Theresa F., DOB: 1975-11-05  |  MRN: 1819741  |  ENCOUNTER: 2025-06-18 to 2025-06-23
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Internal Medicine / Psychiatry Liaison
+ATTENDING PHYSICIAN: Dr. A. Nwosu, MD
+
+=== CHIEF COMPLAINT ===
+Severe fatigue, weight loss of 8kg over 3 months, inability to get out of bed, persistent low mood, and loss of interest in all activities. Denies suicidal ideation. PHQ-9 score 22 (severe depression). Also presenting with recurrent palpitations and dizziness.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Ms. F. is a 49-year-old female with a known history of major depressive disorder (MDD) and generalized anxiety disorder (GAD) presenting with a 3-month history of severe functional decline. She reports profound fatigue, hypersomnia (sleeping 14+ hours per day), anhedonia (loss of interest in family, work, and hobbies she previously loved), persistent low mood with tearfulness, significant psychomotor retardation, poor concentration, feelings of worthlessness, and an 8kg weight loss over 3 months (unintentional). She explicitly denies current suicidal ideation, plan, or intent, but endorses passive death wishes ("I just don't care if I wake up anymore"), which prompted her psychiatrist to arrange urgent medical admission for assessment and stabilization.
+
+Concurrent symptoms prompting medical evaluation include recurrent episodes of palpitations occurring several times daily, lasting 1-3 minutes each, associated with chest tightness and lightheadedness. She has also noticed intermittent hand tremors and heat intolerance over the past 6 weeks, and her family has noted she appears more anxious and irritable than usual despite no change in her psychiatric medications.
+
+Her psychiatric history is significant for MDD and GAD diagnosed at age 32, managed currently with sertraline 150mg daily and buspirone 10mg twice daily. She has been stable on this regimen for 3 years without significant exacerbations. She has no prior psychiatric hospitalizations and no prior suicide attempts. She has a strong family support network and is employed as a school teacher, currently on medical leave.
+
+She denies fever, recent infections, joint pain, or skin changes. She denies alcohol use and illicit drugs. She drinks 3-4 cups of coffee per day.
+
+=== PAST MEDICAL HISTORY ===
+- Major depressive disorder (MDD) — diagnosed age 32, on sertraline 150mg.
+- Generalized anxiety disorder (GAD) — on buspirone 10mg BD.
+- Hypothyroidism — diagnosed 7 years ago, on levothyroxine 75mcg daily. Last TSH check 14 months ago (within range at that time). Has not had thyroid function checked since.
+- Iron deficiency anemia — treated 3 years ago; resolved. No current supplementation.
+- No hypertension, no diabetes, no cardiac disease, no prior DVT or PE.
+- No prior surgeries.
+
+=== MEDICATIONS ON ADMISSION ===
+- Sertraline 150mg daily
+- Buspirone 10mg twice daily
+- Levothyroxine 75mcg daily
+
+=== PHYSICAL EXAMINATION ===
+General: Thin, fatigued-appearing female. Flat affect. Minimal eye contact. Psychomotor slowing observed. Alert and oriented x3.
+Vitals: Temperature 37.2°C, HR 108 bpm (tachycardia, regular), BP 118/72, RR 16, SpO2 98% room air, Weight 52 kg (BMI 19.0 — underweight).
+HEENT: Mild exophthalmos (proptosis) noted bilaterally — subtle but present. Moist warm skin. No lymphadenopathy. Thyroid gland: diffusely enlarged, smooth, non-tender goitre palpable — approximately 2-3x normal size.
+Cardiovascular: Tachycardic and regular. No murmur. No signs of heart failure.
+Respiratory: Clear to auscultation bilaterally. No abnormality.
+Hands and neurological: Fine bilateral hand tremor observed at rest and on action. Brisk deep tendon reflexes bilaterally. No focal neurological deficit. No peripheral neuropathy on screening exam.
+Skin: Warm and moist. No rash. No pretibial myxedema. No vitiligo.
+Eyes: Mild proptosis bilateral — not painful. Lid lag positive bilaterally.
+
+=== LABORATORY RESULTS ===
+TSH: <0.01 mIU/L (severely suppressed — normal 0.4–4.0). CRITICAL LOW.
+Free T4: 3.8 ng/dL (markedly elevated — normal 0.8–1.8).
+Free T3: 11.2 pg/mL (markedly elevated — normal 2.3–4.2).
+Thyroid receptor antibodies (TRAb): POSITIVE — 18.4 IU/L (strongly positive — diagnostic for Graves' disease).
+Anti-thyroid peroxidase antibody (anti-TPO): Positive 248 IU/mL.
+CBC: WBC 7.2 (normal). Hemoglobin 10.8 g/dL (mild anemia — normocytic). MCV 85. Ferritin 8 ng/mL (low — iron deficiency). Platelets 224.
+Iron studies: Serum iron 42 mcg/dL (low). TIBC 478 mcg/dL (high). Transferrin saturation 9% (low). Iron deficiency anemia confirmed.
+BMP: Sodium 138, Potassium 3.8, Creatinine 0.72 mg/dL (normal). Glucose 88.
+Calcium: 10.8 mg/dL (mildly elevated — can be seen in hyperthyroidism). PTH normal. No primary hyperparathyroidism.
+ECG: Sinus tachycardia at 108 bpm. No atrial fibrillation. No ST changes. QTc 410ms.
+Thyroid ultrasound: Diffusely enlarged thyroid gland (right lobe 5.8cm, left lobe 5.2cm, isthmus 0.9cm). Heterogeneous echogenicity with markedly increased Doppler vascularity ("thyroid inferno" pattern). No discrete nodule or cyst. No calcification. Findings consistent with Graves' disease.
+
+=== HOSPITAL COURSE ===
+The clinical presentation of palpitations, heat intolerance, weight loss, tremor, tachycardia, exophthalmos, and markedly abnormal thyroid function with positive TRAb establishes the diagnosis of Graves' disease with hyperthyroidism. This is a newly identified diagnosis explaining many of the patient's somatic symptoms. Critically, hyperthyroidism is a well-recognized cause of anxiety, emotional lability, insomnia, and mood disturbance that can mimic or exacerbate underlying depression and GAD.
+
+Endocrinology consulted on day 1. Anti-thyroid medication initiated: methimazole 30mg daily (titrated to effect). Propranolol 20mg three times daily started for symptomatic control of tachycardia, tremor, and anxiety (beta-blockade blocks peripheral conversion of T4 to T3 and provides symptomatic relief). Heart rate came down to 78 bpm by day 3.
+
+Psychiatry liaison reviewed patient on day 2. Sertraline and buspirone were continued unchanged. The psychiatric team noted that a significant proportion of the patient's current psychiatric symptoms (anxiety, emotional lability, agitation, sleep disruption) are likely attributable to or exacerbated by the uncontrolled hyperthyroidism. PHQ-9 will be reassessed at endocrinology follow-up after thyroid function has been controlled for 4–6 weeks. Buspirone may be tapered at that point if anxiety improves.
+
+Iron deficiency anemia treated with oral ferrous sulfate 325mg once daily (with vitamin C to enhance absorption). Dietary counseling regarding iron-rich foods provided.
+
+Ophthalmology review: Graves' ophthalmopathy (Thyroid Eye Disease, TED) — mild-to-moderate. Bilateral proptosis with lid lag. No corneal exposure or optic nerve compression. No urgent intervention required. Lubricating eye drops prescribed. Outpatient ophthalmology referral for formal CAS (Clinical Activity Score) assessment and monitoring placed.
+
+Patient required psychological support around new diagnosis of autoimmune thyroid disease. Social work counseled regarding impact on work (currently on medical leave from teaching position). Patient expressed relief that a physical explanation for many of her symptoms had been found.
+
+=== ASSESSMENT AND PLAN ===
+1. Graves' disease with hyperthyroidism (newly diagnosed) — TRAb positive, diffuse goitre, ophthalmopathy. Methimazole 30mg daily initiated. Propranolol 20mg TID for symptomatic control. Endocrinology follow-up in 4 weeks with repeat TFTs, CBC (monitor for methimazole agranulocytosis — patient counseled on fever/sore throat as red flag symptoms requiring immediate blood count check).
+2. Graves' ophthalmopathy (thyroid eye disease) — mild, no corneal or optic nerve compromise. Lubricating drops. Ophthalmology referral placed. Strict smoking avoidance (smoking worsens TED — patient is a non-smoker).
+3. Major depressive disorder and generalized anxiety disorder — psychiatric medications continued. Significant proportion of current symptoms likely attributable to uncontrolled hyperthyroidism. PHQ-9 reassessment in 6 weeks after thyroid control. Psychology referral continued.
+4. Iron deficiency anemia — ferrous sulfate 325mg daily. Repeat CBC in 6 weeks. Dietary counseling.
+5. Hypothyroidism (previous diagnosis) — prior levothyroxine now held. Thyroid disease reclassified. Endocrinology to manage ongoing.
+
+=== DISCHARGE INSTRUCTIONS ===
+Patient given detailed written instructions on Graves' disease, methimazole, and warning signs. CRITICAL: if fever or sore throat develops on methimazole — stop immediately and go to emergency room for urgent white blood cell count (risk of agranulocytosis). Take methimazole daily as prescribed. Propranolol for palpitations and tremor — do not stop suddenly. Stop levothyroxine — no longer needed. Continue sertraline and buspirone. Start ferrous sulfate. Eye drops as needed for eye dryness. Follow-up endocrinology in 4 weeks. GP in 1 week for blood pressure and heart rate check. Ophthalmology appointment arranged. Psychiatry outpatient appointment maintained.
+
+Attending Physician: Dr. A. Nwosu, MD  |  Signed: 2025-06-23

@@ -1,0 +1,94 @@
+PATIENT: Vernon A., DOB: 1947-06-15  |  MRN: 1415603  |  ENCOUNTER: 2025-09-03 to 2025-09-12
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Pulmonology / Internal Medicine
+ATTENDING PHYSICIAN: Dr. F. Osei-Bonsu, MD, FCCP
+
+=== CHIEF COMPLAINT ===
+Severe acute exacerbation of COPD with worsening dyspnea, increased sputum production (purulent), and bilateral lower extremity edema over 7 days. SpO2 79% on room air at presentation.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Mr. A. is a 78-year-old male with very severe COPD (GOLD Stage IV, FEV1 predicted 22%) and known cor pulmonale presenting with a severe acute exacerbation of COPD (AECOPD) triggered by what appears to be a community-acquired lower respiratory tract infection. He has a 55 pack-year smoking history and quit smoking 8 years ago. Over the 7 days prior to admission, he reports worsening shortness of breath progressing from his baseline dyspnea (MRC grade 3) to severe dyspnea at rest (MRC grade 5), increased cough with thick, yellow-green purulent sputum, subjective fever, and bilateral ankle and calf swelling worse than his usual baseline.
+
+On arrival to the emergency department, the patient was in moderate-to-severe respiratory distress. He was using accessory muscles of respiration. Respiratory rate was 28. SpO2 was 79% on room air, improving to 88% on 4L nasal cannula. ABG on 4L supplemental oxygen showed pH 7.30, pCO2 68 mmHg, pO2 62 mmHg, HCO3 33 mEq/L, consistent with acute-on-chronic hypercapnic respiratory failure. He was transferred to the respiratory intermediate care unit for close monitoring.
+
+His previous pulmonary function tests (most recent 12 months ago): FEV1 0.52L (22% predicted), FVC 1.85L (62% predicted), FEV1/FVC 0.28 — confirming very severe obstructive pattern. He is on home oxygen therapy at 2L/min via nasal cannula continuously and has been since 2022. He uses a long-acting muscarinic antagonist (tiotropium), a long-acting beta-2 agonist (salmeterol), and an inhaled corticosteroid (fluticasone). He had one prior AECOPD hospitalization 14 months ago requiring a 5-day admission, and a second hospitalization 8 months ago. He has never been intubated.
+
+He also carries a diagnosis of cor pulmonale (right heart failure secondary to chronic hypoxic pulmonary hypertension) confirmed on a prior echocardiogram showing estimated RVSP of 52 mmHg. He is on furosemide 40mg daily for volume management. He denies any recent fever or sick contacts aside from his wife who had a cough last week. No recent antibiotic use. He lives with his wife. He uses a rollator walker at baseline. He is DNR/DNI per advance directive on file.
+
+=== PAST MEDICAL HISTORY ===
+- COPD, very severe (GOLD Stage IV), FEV1 22% predicted. On home oxygen 2L/min continuous.
+- Cor pulmonale — right heart failure secondary to chronic pulmonary hypertension from COPD. Managed with diuretics.
+- Hypertension — well-controlled on amlodipine 5mg.
+- Type 2 diabetes mellitus (T2DM) — HbA1c 7.4% on last check. On metformin 500mg twice daily. No insulin.
+- Hyperlipidemia — on rosuvastatin 10mg nightly.
+- Atrial fibrillation (paroxysmal) — on rate control only (diltiazem 120mg ER daily). Not on anticoagulation due to prior GI bleed risk and patient preference documented in chart.
+- Prior GI bleed (2019) — upper GI bleed attributed to NSAID use. On PPI (pantoprazole 40mg) since then. NSAIDs permanently avoided.
+- No prior DVT or pulmonary embolism. No known malignancy.
+
+=== MEDICATIONS ON ADMISSION ===
+- Tiotropium (Spiriva) 18mcg inhaled once daily via HandiHaler
+- Salmeterol/fluticasone (Advair Diskus) 50/500mcg inhaled twice daily
+- Salbutamol (albuterol) MDI 200mcg as needed for rescue
+- Furosemide 40mg orally daily
+- Amlodipine 5mg daily
+- Metformin 500mg twice daily
+- Rosuvastatin 10mg nightly
+- Diltiazem ER 120mg daily
+- Pantoprazole 40mg daily
+- Home oxygen: 2L/min continuous via nasal cannula
+
+=== PHYSICAL EXAMINATION ===
+General: Elderly male in moderate respiratory distress. Sitting upright. Speaking in 3-4 word sentences. Appears cachectic — BMI 18.4.
+Vitals: Temperature 38.2°C, HR 102 bpm (irregular — atrial fibrillation), BP 148/90, RR 28, SpO2 88% on 4L O2, Weight 61 kg (up from documented 57 kg 3 weeks ago — 4kg increase consistent with fluid retention).
+HEENT: Mild central cyanosis. Pursed lip breathing observed. JVP elevated at 5cm above sternal angle.
+Chest: Barrel chest. Hyperresonant percussion bilaterally. Markedly reduced air entry throughout. Bilateral expiratory wheeze. Coarse crackles right base.
+Cardiovascular: Irregular rhythm (AF). Loud P2. Parasternal heave consistent with right ventricular hypertrophy. 2+ bilateral pitting edema to mid-calf.
+Abdomen: Mild hepatomegaly. No ascites. Mildly tender right upper quadrant — consistent with hepatic congestion.
+Extremities: 2+ pitting edema bilateral ankles and lower legs. No DVT signs. No clubbing.
+
+=== LABORATORY RESULTS ===
+ABG (on 4L O2): pH 7.30, pCO2 68 mmHg, pO2 62 mmHg, HCO3 33 mEq/L — acute-on-chronic hypercapnic respiratory failure.
+CBC: WBC 14.2 x10^9/L (leukocytosis). Hemoglobin 16.8 g/dL (secondary polycythemia — consistent with chronic hypoxemia). Hematocrit 52%.
+CRP: 98 mg/L. Procalcitonin: 0.82 ng/mL (borderline elevated, antibiotic coverage initiated).
+BMP: Na 136, K 3.4 (hypokalemia — monitor on diuretics), Creatinine 1.4 mg/dL (eGFR 48, baseline creatinine 1.2), Glucose 164 (elevated, monitor in context of steroids).
+HbA1c: 7.6% (marginally above target — expected glycemic worsening with steroid therapy).
+BNP: 1,840 pg/mL (markedly elevated — consistent with right heart failure decompensation).
+Sputum culture: Haemophilus influenzae — moderate growth. Sensitive to ampicillin-sulbactam. No methicillin-resistant Staphylococcus aureus.
+Blood cultures: 2 sets — no growth at 5 days.
+
+=== IMAGING ===
+Chest X-ray on admission: Marked hyperinflation with flattened diaphragms bilaterally. Increased bronchovascular markings. Right lower lobe patchy infiltrate consistent with infectious consolidation. Prominent right hilar vasculature and enlargement of the main pulmonary artery — consistent with pulmonary hypertension. Cardiomegaly with prominent right heart border (RV enlargement). Small bilateral pleural effusions.
+ECG: Atrial fibrillation with rapid ventricular response, rate 112. Right axis deviation. Right bundle branch block. P pulmonale pattern in inferior leads. No new ischemic changes.
+Echocardiogram (bedside, limited views): RV severely dilated and hypertrophied. Estimated RVSP 58 mmHg (increased from 52 mmHg on prior study). LV function preserved (EF visually estimated 55-60%). No significant pericardial effusion. Consistent with worsening cor pulmonale.
+
+=== HOSPITAL COURSE ===
+The patient was managed in the respiratory intermediate care unit for the first 5 days. Non-invasive positive pressure ventilation (BiPAP) was initiated — settings: IPAP 14 cm H2O, EPAP 6 cm H2O. He tolerated BiPAP well overnight for the first 3 nights with improvement in pCO2 from 68 to 54 mmHg by day 3 and pH normalizing to 7.38. He was weaned off BiPAP during the day and used it only during sleep and with exacerbations of dyspnea.
+
+Antibiotics: Ampicillin-sulbactam 3g IV every 6 hours initiated on admission, transitioned to oral amoxicillin-clavulanate 875/125mg twice daily after sputum culture sensitivities returned. Total antibiotic course: 7 days.
+
+Bronchodilators: Ipratropium/salbutamol (Combivent) nebulization every 4 hours during the acute phase, tapering to every 6 hours. Continued tiotropium via HandiHaler. Patient remained on scheduled salmeterol/fluticasone Diskus.
+
+Corticosteroids: Methylprednisolone 40mg IV daily for 3 days, transitioned to oral prednisolone 40mg for 5 days then taper (40mg x3d → 30mg x3d → 20mg x3d → stop). Blood glucose monitored closely and adjusted — metformin dose increased and sliding scale regular insulin added in-hospital during steroid course.
+
+Cor pulmonale / fluid management: Furosemide increased to 80mg IV twice daily for the first 48 hours — patient diuresed approximately 3L net negative over 48 hours with significant improvement in lower extremity edema and JVP. Transitioned to oral furosemide 80mg daily at discharge. Potassium supplementation 40mEq daily for hypokalemia.
+
+Rate control for atrial fibrillation: Diltiazem dose increased to 180mg ER daily. Ventricular rate controlled to 70-85 bpm by day 4. Anticoagulation discussed — CHA2DS2-VASc score 5 (stroke risk HIGH) but patient has documented prior GI bleed and patient declines anticoagulation after informed discussion. Decision documented.
+
+Glycemic management: Hyperglycemia expected and observed on corticosteroids. Steroid-induced diabetes managed with sliding scale insulin in hospital. Metformin dose adjusted. No ketoacidosis. Expected normalization post-steroid course.
+
+Oxygen: Home oxygen continued and titrated. Discharge target SpO2 88-92% (permissive hypoxemia to avoid hypercapnia suppression).
+
+Advance directive: DNR/DNI confirmed and on file. Goals of care discussed with patient and wife. Patient understands prognosis of GOLD IV COPD with cor pulmonale. Palliative care consultation placed for outpatient follow-up and symptom management.
+
+=== ASSESSMENT AND PLAN ===
+1. Acute exacerbation of COPD (AECOPD), very severe (GOLD IV) — triggered by Haemophilus influenzae lower respiratory tract infection. Treated with ampicillin-sulbactam (IV → oral amoxicillin-clavulanate, 7-day course), systemic corticosteroids (prednisolone taper), and escalated bronchodilator therapy with BiPAP. Significant improvement in respiratory parameters by day 5.
+2. Acute-on-chronic hypercapnic respiratory failure — resolved with BiPAP. ABG at discharge: pH 7.40, pCO2 58 mmHg (chronic compensated hypercapnia), pO2 68 mmHg on 2L O2.
+3. Cor pulmonale decompensation — fluid overloaded on admission; significant diuresis achieved. Furosemide dose increased to 80mg daily at discharge. Repeat echocardiogram in 3 months.
+4. Atrial fibrillation (paroxysmal) — rate controlled. Anticoagulation declined by patient after informed discussion (documented).
+5. Type 2 diabetes mellitus — steroid-induced hyperglycemia managed in-hospital. Expected to normalize post-steroids. HbA1c 7.6% — acceptable for age and comorbidity burden.
+6. Hypokalemia — corrected. Monitor electrolytes on increased furosemide dose.
+7. Goals of care / palliative: DNR/DNI on file. Outpatient palliative care referral placed for symptom management and advance care planning.
+
+=== DISCHARGE INSTRUCTIONS ===
+Patient instructed on strict medication adherence. Furosemide increased — weigh daily, if weight increases >2kg in 2 days contact pulmonology clinic. Home oxygen at 2L/min continuous — do not adjust without medical advice. Complete antibiotic and steroid taper. Smoking cessation counseling reiterated (patient quit 8 years ago — positive reinforcement provided). Follow-up with pulmonology in 7 days. Cardiology referral for cor pulmonale and AF management. Palliative care intake appointment scheduled.
+
+Attending Physician: Dr. F. Osei-Bonsu, MD, FCCP  |  Signed: 2025-09-12

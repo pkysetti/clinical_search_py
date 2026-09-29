@@ -1,0 +1,31 @@
+PATIENT: Gerald T., DOB: 1952-09-03  |  MRN: 702341  |  ENCOUNTER: 2025-10-14
+DOCUMENT TYPE: Radiology Report — Chest X-Ray (PA and Lateral)  |  DEPARTMENT: Radiology
+ORDERING PHYSICIAN: Dr. R. Singh, MD  |  READING RADIOLOGIST: Dr. M. Okonkwo, MD
+
+CLINICAL INDICATION
+65-year-old male presenting with fever, productive cough, and hypoxia. SpO2 87% on room air. Evaluate for pulmonary infiltrate or consolidation.
+
+TECHNIQUE
+Two-view chest radiograph, posteroanterior and lateral projections, obtained in the upright position. Comparison: Chest X-ray from 2024-04-02 available for review.
+
+FINDINGS
+The cardiac silhouette is mildly enlarged, consistent with prior study. The mediastinum is not widened. The trachea is midline.
+
+Right lung: Dense consolidation is identified in the right lower lobe extending from the right heart border to the posterior costophrenic angle. The right costophrenic angle is blunted, consistent with a small-to-moderate right-sided pleural effusion. Air bronchograms are present within the consolidation, supporting an infectious or inflammatory etiology. No right-sided pneumothorax.
+
+Left lung: The left lung fields are clear. The left costophrenic angle is sharp. No consolidation, mass, or nodular density identified on the left.
+
+Bones: The visualized bony thorax shows mild degenerative changes of the thoracic spine. No acute rib fracture.
+
+Soft tissues: Unremarkable.
+
+Devices/tubes: No central venous catheter, endotracheal tube, or pacemaker leads present.
+
+IMPRESSION
+1. Right lower lobe pneumonia. Dense consolidation with air bronchograms and associated small-to-moderate right pleural effusion. Clinical correlation and antibiotic therapy recommended.
+2. Mild cardiomegaly, stable compared to prior study. Clinical correlation for underlying cardiac disease recommended.
+3. No pneumothorax. No left-sided pulmonary disease.
+
+Report electronically signed by: Dr. M. Okonkwo, MD, Diagnostic Radiology
+Report signed: 2025-10-14 at 14:32
+STAT result communicated to ordering physician at 14:35.

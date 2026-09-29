@@ -1,0 +1,42 @@
+PATIENT: David L., DOB: 1961-09-17  |  MRN: 500384  |  ENCOUNTER: 2025-08-10
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Neurology
+
+=== CHIEF COMPLAINT ===
+Sudden onset right-sided weakness and slurred speech, duration 3 hours prior to presentation.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Mr. L. is a 64-year-old male with longstanding hypertension and hyperlipidemia presenting within the thrombolysis window with acute ischemic stroke (left MCA territory). Onset was sudden while at work - witnessed collapse, right arm and leg weakness, expressive aphasia, and facial droop to the right. NIHSS score on arrival: 12 (moderate stroke). No hemorrhage on non-contrast CT. CT angiography demonstrated left M1 occlusion. IV tPA administered at 2 hours 15 minutes from onset. Mechanical thrombectomy performed with TICI 2b reperfusion achieved.
+
+=== PAST MEDICAL HISTORY ===
+- Hypertension (poorly controlled, previously non-compliant with medication)
+- Hyperlipidemia
+- No prior stroke or TIA
+- No known atrial fibrillation. No diabetes.
+
+=== MEDICATIONS ON ADMISSION ===
+- Amlodipine 5mg daily (patient reports poor compliance)
+- Rosuvastatin 20mg (patient reports inconsistent use)
+
+=== PHYSICAL EXAMINATION ===
+Vitals on arrival: BP 198/114 (severely elevated), HR 82 (regular), Temp 98.8F, SpO2 99%
+Neurological: Right facial droop, right arm 2/5 strength, right leg 3/5 strength. Expressive aphasia (Broca type). Sensation intact.
+
+=== LABORATORY AND IMAGING ===
+Non-contrast CT head: No hemorrhage, no established infarct on initial scan
+CT angiography: Left M1 occlusion confirmed
+MRI brain (post-procedure): Left MCA territory infarct, restricted diffusion in left frontal and parietal cortex
+HbA1c: 5.4% (normal, no diabetes)
+Fasting lipids: LDL 148 mg/dL (elevated)
+Echocardiogram: No cardioembolic source identified. Normal EF.
+Holter monitor x48h: No atrial fibrillation detected
+
+=== ASSESSMENT AND PLAN ===
+1. Acute ischemic stroke - left MCA territory - IV tPA administered followed by mechanical thrombectomy with good reperfusion. Started aspirin 325mg and clopidogrel (dual antiplatelet x21 days per POINT protocol). Statin increased to high-intensity (atorvastatin 80mg).
+2. Hypertension - permissive hypertension post-thrombolysis (target <180/105 for 24h). Subsequently titrated antihypertensives. Lisinopril 10mg added. Medication adherence counselling provided.
+3. Rehabilitation - physical therapy, occupational therapy, and speech therapy initiated. Right-sided weakness improving at discharge (right arm 4/5, right leg 4+/5). Expressive aphasia improving.
+4. Secondary stroke prevention - risk factor modification. Statin escalation. BP control critical.
+
+=== DISCHARGE INSTRUCTIONS ===
+Strict blood pressure monitoring twice daily. No driving for minimum 3 months. Outpatient stroke neurology follow-up in 2 weeks. Continued PT/OT/speech therapy as outpatient. Medication compliance critical - pill organiser provided.
+
+Attending Physician: Dr. E. Johnson, MD  |  Signed: 2025-08-10

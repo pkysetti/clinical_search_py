@@ -1,0 +1,114 @@
+PATIENT: Arthur N., DOB: 1945-08-22  |  MRN: 2021985  |  ENCOUNTER: 2025-10-01 to 2025-10-15
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: General Internal Medicine
+ATTENDING PHYSICIAN: Dr. P. Adebayo, MD, FRCP
+
+=== CHIEF COMPLAINT ===
+Progressive dyspnea on minimal exertion, bilateral leg swelling, weight gain of 6kg in 10 days, and confusion. Background of multiple chronic conditions including heart failure, COPD, type 2 diabetes mellitus, CKD, atrial fibrillation, and depression.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Mr. N. is an 79-year-old male with extensive comorbidities presenting with a 10-day deterioration characterized by progressive shortness of breath on minimal exertion (cannot walk across the room without stopping), bilateral lower extremity swelling worse than his usual baseline, weight gain of 6kg over 10 days, and increasing confusion and forgetfulness noted by his wife over the same period. He also reports orthopnea (now requires 4 pillows to sleep), two episodes of paroxysmal nocturnal dyspnea in the past week, and significantly reduced appetite.
+
+His medical background is complex. He has a known diagnosis of heart failure with reduced ejection fraction (HFrEF), last documented EF 33% approximately 8 months ago, for which he is on maximally tolerated guideline-directed medical therapy. He also carries diagnoses of COPD (GOLD Stage II-III), type 2 diabetes mellitus (on insulin), chronic kidney disease Stage 3b (baseline creatinine 1.8 mg/dL), paroxysmal atrial fibrillation (on anticoagulation), peripheral neuropathy secondary to T2DM, hypothyroidism, and a 5-year history of major depressive disorder treated with escitalopram.
+
+His wife reports that over the past 2 weeks he has been notably less adherent with his low-salt diet — they attended a family wedding and he ate freely, including several high-sodium meals. He also ran out of furosemide 5 days ago and did not call the pharmacy for a refill. She also notes that he has seemed increasingly forgetful and "not himself" — losing track of conversations, repeating himself, and requiring prompting for medication management. His mini-mental state examination (MMSE) scores were 28/30 six months ago; she is concerned about a more rapid cognitive change.
+
+=== PAST MEDICAL HISTORY ===
+- Heart failure with reduced ejection fraction (HFrEF) — EF 33%, ischemic cardiomyopathy etiology. On optimal GDMT: carvedilol, ramipril, spironolactone, furosemide, digoxin.
+- COPD, GOLD Stage II-III — on inhaled tiotropium and salmeterol/fluticasone. No home oxygen currently.
+- Type 2 diabetes mellitus — on insulin glargine 28 units nightly and insulin aspart sliding scale. HbA1c 8.5% at last check.
+- Chronic kidney disease Stage 3b — baseline creatinine 1.8 mg/dL, eGFR 30 mL/min/1.73m2. Nephrology follow-up established.
+- Paroxysmal atrial fibrillation — on apixaban 2.5mg twice daily (dose-reduced). Rate control with digoxin and carvedilol.
+- Peripheral neuropathy (diabetic) — managed with pregabalin 75mg twice daily.
+- Hypothyroidism — on levothyroxine 100mcg daily.
+- Major depressive disorder — on escitalopram 10mg daily. PHQ-9 score 14 at last review.
+- Hypertension — managed as part of HF regimen.
+- Hyperlipidemia — on rosuvastatin 10mg nightly.
+- Osteoarthritis bilateral knees — conservative management. NSAIDs avoided (CKD, HF).
+- No prior stroke. No malignancy. Prior appendicectomy 1975. No prior DVT.
+
+=== MEDICATIONS ON ADMISSION ===
+- Furosemide 80mg twice daily (NOT TAKEN for 5 days)
+- Carvedilol 12.5mg twice daily
+- Ramipril 5mg daily
+- Spironolactone 25mg daily
+- Digoxin 0.0625mg daily
+- Apixaban 2.5mg twice daily
+- Levothyroxine 100mcg daily
+- Insulin glargine 28 units subcutaneous nightly
+- Insulin aspart (NovoRapid) sliding scale with meals
+- Pregabalin 75mg twice daily
+- Escitalopram 10mg daily
+- Rosuvastatin 10mg nightly
+- Omeprazole 20mg daily
+
+=== PHYSICAL EXAMINATION ===
+General: Elderly male, breathless at rest on arrival, sitting upright. Speaks in short sentences. Slightly confused and slow to respond to questions.
+Vitals: Temperature 36.8°C, HR 78 bpm (irregular — AF), BP 104/68 mmHg, RR 22, SpO2 91% on room air (up to 95% on 2L O2), Weight 82 kg (usual weight reportedly 76 kg — 6kg gain).
+HEENT: Mild pallor. No jaundice. JVP elevated 8cm above the sternal angle.
+Chest: Barrel-shaped. Bibasilar crackles extending to mid-zones bilaterally — consistent with pulmonary oedema. Mild expiratory wheeze.
+Cardiovascular: Irregular rhythm. Soft S1, S2. S3 gallop audible at apex — consistent with volume overload. Prominent right heart border.
+Abdomen: Mild hepatomegaly (3cm below right costal margin) with hepatojugular reflux. Mild shifting dullness but no frank ascites.
+Extremities: 3+ pitting oedema bilateral legs to the knees. Right lower leg slightly warmer — DVT screen ordered.
+Neurological: Slightly confused (MMSE 22/30 — reduced from 28/30 six months prior). Oriented to person and place, not to date/month. No focal neurological deficit. Bilateral lower extremity reduced sensation to vibration and light touch consistent with known peripheral neuropathy.
+
+=== LABORATORY RESULTS ===
+BNP: 4,820 pg/mL (markedly elevated — consistent with severe HF decompensation; baseline BNP 680 pg/mL).
+CBC: WBC 9.2, Hemoglobin 10.4 g/dL (normocytic — anemia of chronic disease). MCV 87. Platelets 198.
+BMP: Na 131 mEq/L (hyponatremia — dilutional in HF), K 4.8 mEq/L (borderline high, monitor on spironolactone + AKI), Creatinine 2.6 mg/dL (acute on chronic — AKI Stage 1 on CKD Stage 3b; baseline 1.8), Glucose 188 mg/dL, Bicarbonate 20 (mild metabolic acidosis).
+eGFR estimated: 18 mL/min/1.73m2 (acutely reduced).
+Digoxin level: 1.9 ng/mL (therapeutic — upper limit; monitor closely as AKI may precipitate toxicity).
+TSH: 3.4 mIU/L (within normal limits — thyroid well-controlled).
+HbA1c: 8.8% (slightly worse than 8.5% — inadequate glycaemic control).
+LFTs: AST 62, ALT 48, total bilirubin 2.1 mg/dL (mild elevation — hepatic congestion).
+Procalcitonin: 0.18 ng/mL (low — no bacterial infection identified).
+CRP: 28 mg/L (mildly elevated — likely related to chronic inflammatory state and decompensated HF).
+Urinalysis: No infection. No significant proteinuria beyond baseline.
+Lower extremity duplex ultrasound: No DVT identified in either leg. Right leg warmth attributed to dependent oedema and venous stasis.
+ECG: Atrial fibrillation, rate 78. QRS narrow. No acute ST changes. QTc 462ms. Digoxin effect (reverse tick pattern).
+Cognitive screen: MMSE 22/30. MoCA 19/30. Clock draw test abnormal. Full neuropsychiatric workup deferred to outpatient setting after medical stabilization.
+
+=== IMAGING ===
+Chest X-ray: Cardiomegaly. Bilateral perihilar infiltrates consistent with pulmonary oedema. Bilateral small-to-moderate pleural effusions. Mild hyperinflation consistent with COPD background. Vascular redistribution. No focal consolidation or pneumothorax.
+Echocardiogram (portable, day 2): EF 28% (worsened from 33% eight months ago). Severely dilated LV. Moderate functional MR. Moderate tricuspid regurgitation. Estimated RVSP 46 mmHg. Dilated IVC with minimal respiratory collapse — RAP elevated. Bilateral pleural effusions visible.
+
+=== HOSPITAL COURSE ===
+Decompensated HFrEF was the primary diagnosis. Precipitating factors identified: dietary sodium non-adherence, 5-day gap in furosemide, and possibly worsening renal function (AKI Stage 1 likely from low cardiac output state).
+
+Fluid management: Furosemide resumed at 120mg IV twice daily. Patient diuresed aggressively under close monitoring of electrolytes and renal function. Net negative fluid balance: day 1 -1.8L, day 2 -2.3L, day 3 -1.5L (total -5.6L over 3 days). Weight decreased from 82kg to 76.4kg (approaching baseline). Oedema significantly reduced. JVP normalized. BNP trended down to 1,240 pg/mL by day 7.
+
+Hyponatremia: Sodium 131 on admission — managed with fluid restriction (1.2L/day) and diuresis. Sodium normalized to 137 mEq/L by day 5. No hypertonic saline required.
+
+AKI management: Creatinine peaked at 2.8 mg/dL on day 2, trending down to 2.1 mg/dL by day 7. Ramipril held until creatinine trending down (day 5), then reintroduced at reduced dose 2.5mg daily. Spironolactone held throughout given hyperkalemia risk. Nephrology reviewed and agreed with plan — spironolactone to be reintroduced gradually as outpatient.
+
+Digoxin monitoring: Digoxin level 1.9 ng/mL — held for 2 days given AKI and elevated level (risk of toxicity). Reintroduced at 0.0625mg every 48 hours. No digoxin toxicity signs (no bradycardia, no visual changes, no nausea attributable to digoxin).
+
+COPD management: Bronchodilators (tiotropium continued, salbutamol nebulizations PRN). SpO2 maintained 90-94% on 1-2L oxygen. No acute exacerbation component identified. No antibiotics required.
+
+Diabetes management: Basal insulin continued. Insulin aspart doses adjusted. BG target 140-180 mg/dL. Dietitian reviewed low-salt, diabetic diet management. Diabetes nurse specialist reviewed insulin technique (patient was drawing up insulin incorrectly — retrained with wife present).
+
+Cognitive change: Geriatrics reviewed on day 3. Delirium overlay on possible early dementia considered — MMSE recovered partially to 25/30 by day 7 as medical condition improved. Baseline cognitive impairment cannot be fully distinguished from delirium at this stage. Outpatient memory clinic referral placed. Driving assessment recommended (patient still drives — DVLA notification to be considered).
+
+Depression: Escitalopram continued. PHQ-9 reassessment once medically stable — scored 16 (moderate-severe) at discharge. Psychiatry outpatient follow-up arranged. Question of cardiac vs. depressive causes of fatigue and anhedonia complex in this setting.
+
+Nutrition: Clinical dietitian reviewed. Malnutrition Universal Screening Tool (MUST) score: 2 (high risk). Dietitian recommended nutritional supplement drinks and low-sodium high-protein diet plan. Referred for community dietitian follow-up.
+
+Social: Social worker reviewed patient and wife. Wife is primary carer and shows signs of carer fatigue. Community support services reviewed — home care package increased. Occupational therapy assessment: patient now requires walking frame at home and adaptations to bathroom (grab rails). Aids ordered.
+
+=== ASSESSMENT AND PLAN ===
+1. Decompensated HFrEF (EF 28%, worsened from 33%) — treated with IV furosemide diuresis (>5L net negative over 72hrs). Precipitated by dietary non-adherence and missed furosemide doses. Discharge weight 76.5kg (close to baseline). BNP trending down but remains elevated at 1,240 pg/mL. Furosemide dose increased to 80mg BD + 40mg morning PRN on alternate days at discharge. Daily weight monitoring arranged. Phone follow-up by HF nurse at 48 hours.
+2. Acute-on-chronic kidney injury — creatinine 2.1 at discharge, improved from peak 2.8. Ramipril restarted at 2.5mg. Spironolactone held — to be reintroduced at nephrology follow-up in 2 weeks.
+3. Hyponatremia — resolved. Fluid restriction 1.5L/day ongoing at home.
+4. COPD — no acute exacerbation. Inhalers continued. No new oxygen prescription required at this time.
+5. Type 2 diabetes mellitus — insulin regimen unchanged. Glucose targets met by discharge. HbA1c 8.8% — will be addressed at outpatient diabetes review. Community diabetes nurse to visit within 1 week.
+6. Atrial fibrillation — rate-controlled. Digoxin at reduced frequency. Apixaban continued.
+7. Peripheral neuropathy — pregabalin continued. No worsening during admission.
+8. Hypothyroidism — stable.
+9. Depression — escitalopram continued. PHQ-9 16. Psychiatry follow-up arranged.
+10. Possible cognitive impairment — MMSE improved to 25/30 with medical stabilization. Memory clinic referral placed. Driving review recommended.
+11. Malnutrition risk — dietitian follow-up. Nutritional supplements prescribed.
+12. Medication adherence — pharmacy-dispensed blister packs arranged. Wife to supervise morning medications. Medication reconciliation sheet provided.
+
+=== DISCHARGE INSTRUCTIONS ===
+Written and verbal instructions provided in large print to patient and wife. Daily weights — if weight increases >1.5 kg overnight or >2 kg over 2 days, take extra furosemide (PRN dose) and call HF nurse immediately. Low-sodium diet strictly (<2g sodium/day). Fluid restriction 1.5L/day including all drinks and soups. Do NOT miss furosemide. Take all medications as listed — blister packs arranged. Call HF nurse if any increase in swelling or breathlessness. Contact 999 (emergency services) for sudden severe breathlessness, chest pain, or acute confusion. HF nurse phone follow-up in 48 hours. GP review in 5 days. Cardiology/HF clinic in 3 weeks. Nephrology in 2 weeks. Memory clinic appointment to be sent by post. Dietitian community visit in 1 week. Diabetes nurse community visit in 1 week. Driving assessment arranged by geriatric team.
+
+Attending Physician: Dr. P. Adebayo, MD, FRCP  |  Signed: 2025-10-15

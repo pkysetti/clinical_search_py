@@ -1,0 +1,102 @@
+PATIENT: Stanley R., DOB: 1953-07-19  |  MRN: 1718920  |  ENCOUNTER: 2025-07-02 to 2025-07-09
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Cardiology / Coronary Care Unit
+ATTENDING PHYSICIAN: Dr. M. Achebe, MD, FACC
+
+=== CHIEF COMPLAINT ===
+Severe crushing substernal chest pain radiating to the left jaw and left arm, diaphoresis, and nausea for 90 minutes prior to arrival. STEMI identified on 12-lead ECG.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Mr. R. is a 71-year-old male with a history of hypertension, hyperlipidemia, and a 40 pack-year smoking history (quit 12 years ago) presenting to the emergency department via ambulance with a 90-minute history of severe crushing substernal chest pain, 9/10 in intensity, radiating to the left jaw and left arm, associated with diaphoresis, nausea, and extreme fatigue. He denied loss of consciousness, palpitations, or prior similar chest pain episodes. He had no prior history of cardiac disease or prior revascularization.
+
+Paramedic 12-lead ECG performed en route showed 4mm ST elevation in leads II, III, and aVF with reciprocal ST depression in I and aVL — consistent with inferior ST-elevation myocardial infarction (STEMI). Code STEMI was activated. On arrival to ED, the ECG was confirmed and the patient was taken directly to the cardiac catheterization laboratory (cath lab) for primary percutaneous coronary intervention (PCI) — door-to-balloon time 38 minutes (target <90 minutes).
+
+He reports that he has been under significant work stress over the past month. He has had hypertension for 15 years managed with amlodipine and had been non-adherent to his atorvastatin for approximately 6 months ("ran out and didn't refill"). He does not take aspirin. He denies recent cocaine or stimulant use. No recent surgeries. No prior DVT.
+
+=== PAST MEDICAL HISTORY ===
+- Hypertension — on amlodipine 10mg, previously well-controlled but BP 168/98 on admission.
+- Hyperlipidemia — on atorvastatin 40mg (non-adherent for 6 months). LDL 148 mg/dL on admission.
+- Tobacco use — former smoker, 40 pack-years, quit 2013. No current tobacco or recreational drug use.
+- No prior myocardial infarction, no prior coronary artery disease, no prior revascularization procedures.
+- No diabetes mellitus. No chronic kidney disease. No atrial fibrillation. No stroke.
+- No prior DVT or pulmonary embolism.
+- No bleeding history. No contraindication to anticoagulation or antiplatelet therapy.
+
+=== MEDICATIONS ON ADMISSION ===
+- Amlodipine 10mg daily (taking irregularly per patient report)
+- Atorvastatin 40mg nightly (NOT TAKING for 6 months)
+- No aspirin, no anticoagulants, no antiplatelet agents
+
+=== PHYSICAL EXAMINATION ON ADMISSION ===
+General: Anxious, diaphoretic male in significant distress. Speaking full sentences.
+Vitals: BP 168/98 mmHg (left arm), HR 94 bpm (regular), RR 20, Temp 37.1°C, SpO2 96% room air.
+Cardiovascular: Regular rate and rhythm. Normal S1 and S2. No S3 or S4 gallop audible. No murmur. JVP not elevated.
+Respiratory: Clear to auscultation bilaterally. No pulmonary edema.
+Abdomen: Soft, non-tender.
+Extremities: No edema. Peripheral pulses intact bilaterally.
+Neurological: Alert and oriented x3. No focal deficit.
+
+=== CARDIAC CATHETERIZATION FINDINGS (performed 2025-07-02) ===
+Vascular access: Right radial artery, 6F sheath.
+Left ventriculogram: Not performed (hemodynamic stability; renal protection).
+Coronary angiography:
+- Left main (LM): Normal. No significant stenosis.
+- Left anterior descending (LAD): Mild luminal irregularities. Maximum stenosis 30%. No flow-limiting disease.
+- Left circumflex (LCx): Small-caliber vessel with mild irregularities. Non-dominant.
+- Right coronary artery (RCA): TOTAL OCCLUSION of the mid-RCA with TIMI 0 flow identified. Thrombus burden: high. This is the culprit vessel for inferior STEMI.
+Intervention: Aspiration thrombectomy performed. Pre-dilation with 2.5mm balloon. Two overlapping drug-eluting stents (DES) deployed in the mid-RCA (3.0 x 28mm and 3.5 x 18mm Synergy stent system). Post-dilation performed. Final angiography: TIMI 3 flow restored. Residual stenosis <10%. Excellent angiographic result.
+Medications administered in lab: Aspirin 325mg oral loading dose + ticagrelor 180mg oral loading dose + unfractionated heparin weight-based IV bolus. Glycoprotein IIb/IIIa inhibitor (eptifibatide) used given high thrombus burden.
+
+=== LABORATORY RESULTS ===
+Admission troponin-I: 0.12 ng/mL (mildly elevated — early presentation).
+Peak troponin-I (6 hours post-PCI): 68.4 ng/mL (markedly elevated — consistent with significant myocardial necrosis).
+Peak CK-MB: 248 ng/mL.
+CBC: WBC 13.2, Hemoglobin 14.8, Platelets 312.
+BMP: Na 138, K 4.2, Creatinine 1.1 mg/dL (eGFR 64). Glucose 122 mg/dL (stress hyperglycemia — non-diabetic, glucose normalized over 48 hours, HbA1c 5.9%).
+LFTs: Normal. No hepatic congestion.
+Lipid panel: Total cholesterol 228, LDL 148 mg/dL, HDL 32, Triglycerides 242 mg/dL — dyslipidemia, statin non-adherence confirmed.
+BNP: 840 pg/mL at 24 hours post-PCI (mildly elevated, suggesting some LV dysfunction from inferior infarct).
+
+=== ECHOCARDIOGRAM (performed 2025-07-03, day 1 post-PCI) ===
+LV ejection fraction: 45% (mildly reduced). Inferior wall hypokinesis and posterior wall hypokinesis consistent with territory of RCA infarction. No wall motion abnormality in the anterior wall or septum (LAD territory unaffected). Mild mitral regurgitation (MR) secondary to inferior papillary muscle involvement — trivial to mild, vena contracta 0.2cm. No ventricular septal defect. No thrombus visualized. No significant pericardial effusion.
+
+=== HOSPITAL COURSE ===
+The patient was admitted to the coronary care unit (CCU) post-PCI. He recovered in the CCU for 48 hours with continuous telemetry. He remained hemodynamically stable throughout with no arrhythmias requiring intervention (24-hour telemetry: normal sinus rhythm with frequent premature ventricular contractions on day 1, resolving by day 2 — consistent with reperfusion). No post-infarction angina. No heart failure symptoms developed. Oxygen was weaned off by post-PCI hour 12.
+
+Dual antiplatelet therapy (DAPT): Aspirin 81mg daily (lifelong) + ticagrelor 90mg twice daily (12 months minimum, then aspirin monotherapy). Risk of major bleeding reviewed with patient. Gastrointestinal protection: omeprazole 20mg daily co-prescribed with DAPT.
+
+High-intensity statin therapy: Atorvastatin increased to 80mg nightly. LDL target <70 mg/dL. Adherence counseling provided extensively. Repeat lipid panel in 6 weeks.
+
+Beta-blocker: Metoprolol succinate 25mg daily initiated — to be titrated up to 200mg or maximum tolerated dose at follow-up. Started at low dose given inferior MI (risk of bradycardia/AV block).
+
+ACE inhibitor: Ramipril 2.5mg daily initiated (EF mildly reduced, post-MI cardioprotection). To be uptitrated. Blood pressure target <130/80. Amlodipine continued pending BP reassessment.
+
+Cardiac rehabilitation referral: Phase II cardiac rehabilitation enrolled. Program starts 2 weeks post-discharge.
+
+Glycemic: HbA1c 5.9% — not diabetic. Stress hyperglycemia resolved without intervention.
+
+Smoking/lifestyle counseling: Patient has been a non-smoker for 12 years — positive reinforcement given. Dietary counseling by clinical dietitian — Mediterranean diet recommended. Alcohol use: moderate (2 units per day) — advised to reduce to <14 units/week. Cardiovascular risk factor counseling comprehensive session provided with written materials.
+
+Psychosocial: Patient expressed significant anxiety about his diagnosis. Social work consulted. Post-MI depression screening: PHQ-9 score 9 (mild depression). Outpatient cardiology follow-up to include repeat PHQ-9. Psychology referral placed.
+
+=== ASSESSMENT AND PLAN ===
+1. Inferior STEMI — mid-RCA total occlusion treated with primary PCI. Two DES deployed in mid-RCA. TIMI 3 flow restored. Door-to-balloon 38 minutes. No in-hospital complications. Post-PCI LV EF 45% with inferior/posterior hypokinesis — EF may improve over 3-6 months with optimal medical therapy.
+2. Post-PCI antiplatelet therapy — aspirin 81mg lifelong + ticagrelor 90mg BD for 12 months (DAPT). PPI co-prescribed. Patient educated on critical importance of not stopping antiplatelet therapy.
+3. Hyperlipidemia — atorvastatin dose increased to 80mg. LDL 148 mg/dL at admission. Target LDL <70 mg/dL. If target not achieved in 6 weeks, consider addition of ezetimibe or PCSK9 inhibitor.
+4. Hypertension — ramipril added. Amlodipine continued. BP target <130/80. Metoprolol succinate initiated and to be uptitrated.
+5. Mild post-MI LV dysfunction (EF 45%) — ACE inhibitor and beta-blocker initiated. Repeat echocardiogram at 6-week follow-up to assess EF recovery.
+6. Mild depression (PHQ-9 9) — outpatient psychology referral. Reassess at cardiology follow-up.
+7. Cardiac rehabilitation — phase II program enrolled.
+
+=== DISCHARGE MEDICATIONS ===
+- Aspirin 81mg daily (NEW — lifelong, do not stop without cardiology advice)
+- Ticagrelor 90mg twice daily (NEW — 12-month course, CRITICAL — do not stop)
+- Omeprazole 20mg daily (NEW — gastric protection with DAPT)
+- Atorvastatin 80mg nightly (DOSE INCREASED from 40mg)
+- Ramipril 2.5mg daily (NEW)
+- Metoprolol succinate 25mg daily (NEW)
+- Amlodipine 10mg daily (continuing)
+
+=== DISCHARGE INSTRUCTIONS ===
+Patient and wife provided with written discharge instructions, medication reconciliation list, and DAPT wallet card. Instructed NEVER to stop ticagrelor or aspirin without cardiologist approval — risk of in-stent thrombosis emphasized. Call 911 or return to ED immediately for any recurrence of chest pain, jaw pain, or arm pain. No strenuous activity for 4 weeks. Shower with sticking plaster on right wrist radial access site for 48 hours. Avoid driving for 48 hours. Follow-up cardiology in 4 weeks with repeat echo, ECG, and lipid panel. GP review in 7 days for blood pressure check and ramipril up-titration. Cardiac rehabilitation information package provided.
+
+Attending Physician: Dr. M. Achebe, MD, FACC  |  Signed: 2025-07-09

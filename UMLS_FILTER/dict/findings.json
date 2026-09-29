@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "source": "UMLS Metathesaurus",
+    "release": "2026AA",
+    "concept_count": 2,
+    "synonym_count": 4,
+    "source_vocabularies": "MTH,SNOMEDCT_US,MSH,NCI,RXNORM,LNC,ICD10CM,ICD9CM,HPO,MEDLINEPLUS,MTHSPL,CHV,OMIM",
+    "specificity_thresholds": {
+      "low": "<=3",
+      "medium": "<=7",
+      "high": ">7"
+    },
+    "partition": "findings",
+    "kinds": [
+      "finding",
+      "symptom"
+    ]
+  },
+  "concepts": [
+    {
+      "cui": "C0025355",
+      "canonical": "mental status",
+      "synonyms": [
+        "mental state"
+      ],
+      "abbreviations": [],
+      "brands": [],
+      "icd10": null,
+      "rxcui": null,
+      "category": "finding",
+      "kind": "finding",
+      "specificity": "low",
+      "semantic_types": [
+        "Finding"
+      ],
+      "sources": [
+        "MTH",
+        "SNOMEDCT_US"
+      ]
+    },
+    {
+      "cui": "C0008031",
+      "canonical": "chest pain",
+      "synonyms": [
+        "chest discomfort",
+        "retrosternal pain",
+        "thoracic pain"
+      ],
+      "abbreviations": [],
+      "brands": [],
+      "icd10": "R07",
+      "rxcui": null,
+      "category": "symptom",
+      "kind": "symptom",
+      "specificity": "low",
+      "semantic_types": [
+        "Sign or Symptom"
+      ],
+      "sources": [
+        "CHV",
+        "MTH",
+        "SNOMEDCT_US"
+      ]
+    }
+  ]
+}

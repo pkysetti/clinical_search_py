@@ -1,0 +1,32 @@
+PATIENT: Dorothy P., DOB: 1938-05-14  |  MRN: 1920653  |  ENCOUNTER: 2025-11-03
+DOCUMENT TYPE: Radiology Report — X-Ray Left Hip and Pelvis  |  DEPARTMENT: Radiology
+ORDERING PHYSICIAN: Dr. T. Osei, MD (Emergency Medicine)  |  READING RADIOLOGIST: Dr. B. Schwartz, MD
+
+CLINICAL INDICATION
+86-year-old female presenting after mechanical fall from standing height at home. Left hip pain, inability to weight-bear, left leg externally rotated and shortened. History of osteoporosis. Rule out hip fracture.
+
+TECHNIQUE
+AP radiograph of the pelvis and AP and lateral radiographs of the left hip performed in the emergency department. The patient was unable to tolerate the frog-leg lateral view due to pain — a cross-table lateral view was substituted. No comparison radiographs available in the system.
+
+FINDINGS
+Pelvis: The pelvis is symmetric. The sacroiliac joints appear intact. There is bilateral narrowing of the hip joint spaces, right greater than left, consistent with bilateral hip osteoarthritis. Diffuse osteopenia is noted throughout the pelvic bones and proximal femora, consistent with the patient's known osteoporosis.
+
+Left hip: There is an acute displaced intracapsular fracture of the left femoral neck. The fracture line extends through the subcapital region of the left femoral neck with complete cortical disruption. The femoral head is displaced medially and superiorly relative to the acetabulum. The femoral neck-shaft angle is disrupted. The fracture is classified as a Garden Grade III displaced intracapsular fracture. There is no evidence of comminution. No acetabular fracture.
+
+Right hip: No acute fracture identified. Moderate hip osteoarthritis with joint space narrowing and osteophyte formation at the right femoral head-neck junction.
+
+Femora and visible long bones: No additional fractures identified in the visualized portions of both femora.
+
+Soft tissues: Soft tissue swelling is noted over the left hip region, consistent with acute trauma and hemorrhage. No gas or foreign body.
+
+Sacrum and coccyx: No sacral fracture identified on this AP pelvis view. If clinical concern for sacral fracture exists, dedicated CT of the pelvis would be more sensitive.
+
+IMPRESSION
+1. Acute displaced left subcapital femoral neck fracture, Garden Grade III. This is a surgical emergency requiring urgent orthopaedic surgery consultation. Avascular necrosis of the femoral head is a significant risk with this degree of displacement and intracapsular location.
+2. Diffuse osteoporosis. Bilateral hip osteoarthritis, right greater than left.
+3. No right hip fracture. No pelvic ring fracture on this AP view.
+
+CRITICAL RESULT: Communicated to Dr. T. Osei (Emergency Medicine) and orthopaedic surgery on-call team at 21:08 on 2025-11-03. Patient referred for urgent hemi-arthroplasty.
+
+Report electronically signed by: Dr. B. Schwartz, MD, Musculoskeletal Radiology
+Report signed: 2025-11-03 at 21:10

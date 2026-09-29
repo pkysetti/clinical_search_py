@@ -1,0 +1,102 @@
+PATIENT: Constance M., DOB: 1943-12-01  |  MRN: 1516334  |  ENCOUNTER: 2025-08-11 to 2025-08-22
+DOCUMENT TYPE: Discharge Summary  |  DEPARTMENT: Nephrology / Critical Care Medicine
+ATTENDING PHYSICIANS: Dr. W. Obi, MD (Nephrology), Dr. L. Stein, MD (Critical Care)
+
+=== CHIEF COMPLAINT ===
+Altered mental status, fever 39.4°C, hypotension (BP 78/42), and elevated creatinine 4.8 mg/dL (baseline 1.6). Urinary incontinence noted by family. Septic shock suspected.
+
+=== HISTORY OF PRESENT ILLNESS ===
+Ms. M. is an 81-year-old female with a background of CKD Stage 3b (baseline creatinine 1.6 mg/dL, eGFR 32), T2DM, hypertension, and paroxysmal atrial fibrillation, presenting via emergency medical services after her daughter found her confused, febrile, and hypotensive at home. The patient lives alone; her daughter visits daily. Per the daughter, the patient had been complaining of burning on urination and frequency for approximately 3 days prior, which she attributed to a urinary tract infection and did not seek care. She also reported back pain over the flanks for 2 days. She had been taking paracetamol for discomfort. On the morning of admission, the daughter found her mother unable to get out of bed, confused and not recognizing familiar people, minimally responsive to verbal stimuli, and incontinent.
+
+On arrival: BP 78/42 mmHg (septic shock), HR 124 bpm (tachycardic, irregular), RR 24, Temperature 39.4°C, SpO2 94% on 6L nasal cannula, GCS 11 (E3V3M5). She was transferred directly to the ICU.
+
+She is on apixaban 2.5mg twice daily for atrial fibrillation, metformin 1000mg twice daily (held on admission), lisinopril 10mg daily (held on admission due to hypotension and AKI), and amlodipine 5mg daily.
+
+=== PAST MEDICAL HISTORY ===
+- CKD Stage 3b — baseline creatinine 1.6 mg/dL, eGFR 32 mL/min/1.73m2. Nephrology follow-up established.
+- Type 2 diabetes mellitus (T2DM) — HbA1c 8.1% at last check. On metformin monotherapy.
+- Hypertension — on lisinopril and amlodipine, well-controlled at baseline.
+- Paroxysmal atrial fibrillation — on apixaban 2.5mg BD (dose-reduced for age/weight/creatinine). Rate-controlled with diltiazem.
+- Osteoporosis — on denosumab (Prolia) injection every 6 months.
+- Prior UTI hospitalization in 2023 — E. coli sensitive to cephalosporins.
+- No prior history of dialysis. No chronic liver disease. No malignancy.
+
+=== MEDICATIONS ON ADMISSION ===
+- Metformin 1000mg twice daily (HELD)
+- Lisinopril 10mg daily (HELD)
+- Amlodipine 5mg daily
+- Diltiazem ER 120mg daily
+- Apixaban 2.5mg twice daily (HELD pending bleeding risk assessment)
+- Denosumab 60mg subcutaneous every 6 months (last injection 4 months ago)
+- Acetaminophen 500mg as needed
+
+=== PHYSICAL EXAMINATION ON ADMISSION ===
+General: Elderly female in acute distress, drowsy, confused, diaphoretic.
+Vitals: Temperature 39.4°C, HR 124 bpm (irregular — AF), BP 78/42 mmHg, RR 24, SpO2 94% on 6L nasal cannula, GCS 11.
+HEENT: Dry mucous membranes. Mild jaundice of conjunctivae (subsequent LFTs showed elevated bilirubin consistent with sepsis cholestasis).
+Neck: JVP not elevated (volume depleted). No meningism — Kernig and Brudzinski signs negative.
+Cardiovascular: Tachycardic, irregular. No murmur detected.
+Respiratory: Bibasilar crackles. No wheeze.
+Abdomen: Mild suprapubic tenderness. Bilateral flank tenderness on deep palpation — right greater than left. No peritoneal signs.
+Neurological: Confused. Following simple commands. No focal neurological deficit identified.
+Extremities: Mottling of lower extremities. Capillary refill 4 seconds. No edema.
+
+=== LABORATORY RESULTS ===
+Admission bloods:
+WBC: 22.8 x10^9/L (leukocytosis). Neutrophils 20.1 x10^9/L. Bands 18% on manual differential (bandemia).
+Hemoglobin: 9.8 g/dL (normocytic anemia of chronic disease).
+CRP: 312 mg/L (markedly elevated). Procalcitonin: 68.4 ng/mL (strongly suggestive of bacterial infection/sepsis).
+Creatinine: 4.8 mg/dL (acute kidney injury — Stage 3 KDIGO, on background CKD Stage 3b; baseline 1.6 mg/dL). eGFR estimated 9 mL/min/1.73m2.
+BUN: 88 mg/dL. BUN:Creatinine ratio 18 (consistent with pre-renal and intrinsic AKI components).
+Sodium: 131 mEq/L (hyponatremia). Potassium: 5.6 mEq/L (hyperkalemia — consistent with AKI). Bicarbonate: 14 mEq/L (metabolic acidosis). Chloride: 101.
+Lactate: 4.8 mmol/L (markedly elevated — severe tissue hypoperfusion/septic shock).
+LFTs: Total bilirubin 3.4 mg/dL, AST 78, ALT 54 — mild transaminitis and cholestasis, consistent with sepsis-related hepatic dysfunction.
+Blood glucose: 344 mg/dL (hyperglycemia in context of sepsis and T2DM).
+HbA1c: 8.3% (poorly controlled).
+Urinalysis: Grossly turbid. pH 5.5. WBC >500/HPF. RBC 45/HPF. Nitrites POSITIVE. Leukocyte esterase 4+. Many bacteria.
+Urine culture: E. coli >100,000 CFU/mL. Extended-spectrum beta-lactamase (ESBL) negative. Sensitive to ceftriaxone, ciprofloxacin, trimethoprim-sulfamethoxazole.
+Blood cultures (2 sets): E. coli bacteremia — POSITIVE in 2/4 bottles by hour 18. Sensitivities matching urine isolate. Susceptible to ceftriaxone.
+Renal ultrasound: Right kidney 10.1cm, left kidney 9.8cm. Bilateral echogenic kidneys consistent with CKD. No hydronephrosis. No perinephric fluid collection or abscess. No renal calculi identified.
+ECG: Atrial fibrillation, rate 124. No peaked T-waves despite hyperkalemia (K+ 5.6). No ST changes. QTc 448ms.
+
+=== HOSPITAL COURSE — ICU PHASE (Days 1-5) ===
+Septic shock from E. coli urosepsis/pyelonephritis with AKI Stage 3 (on CKD). Sepsis-3 criteria met. ICU activated.
+
+Resuscitation: Aggressive intravenous fluid resuscitation with 30 mL/kg crystalloid (0.9% normal saline) over first 3 hours — 1.5L total. Norepinephrine infusion initiated (peak dose 0.18 mcg/kg/min) to maintain MAP >65 mmHg. Vasopressin 0.03 units/min added on day 2 for additional vasoconstrictor support.
+
+Antibiotics: Empirical IV ceftriaxone 1g every 24 hours (renally dosed) started within 1 hour of sepsis identification — before culture results. Antibiotic regimen confirmed appropriate after sensitivities returned. No ESBL organism.
+
+Renal replacement therapy: Given AKI Stage 3 with metabolic acidosis (pH 7.18, bicarb 14), hyperkalemia (K+ 5.6), and oliguria despite adequate resuscitation, continuous renal replacement therapy (CRRT) initiated on day 2. Continued for 4 days. Urine output began recovering by day 5 — CRRT discontinued on day 6 after sustained urine output >0.5 mL/kg/hr.
+
+Glycemic management: Insulin infusion protocol initiated for glucose management (target 140-180 mg/dL). Metformin and lisinopril remained held throughout ICU stay.
+
+Hyperkalemia: Managed with calcium gluconate IV, sodium bicarbonate, insulin + dextrose, and kayexalate. K+ normalized with CRRT.
+
+Encephalopathy / delirium: Confusion attributed to septic encephalopathy and uremia. No structural CNS pathology on bedside neuro assessment (CT head obtained on day 1 — no acute intracranial pathology). Delirium management with non-pharmacological measures (reorientation, day-night cycle preservation, family at bedside). Mild sedation with low-dose haloperidol PRN used sparingly.
+
+Atrial fibrillation rate control: Diltiazem continued IV during ICU phase, transitioning to oral at stepdown. Apixaban held during acute phase due to AKI and bleeding risk with invasive lines. Restarted at reduced dose on day 8 after hemostasis confirmed and creatinine improving.
+
+=== HOSPITAL COURSE — STEPDOWN PHASE (Days 6-11) ===
+Transferred out of ICU on day 6 after hemodynamic stabilization (vasopressors off by day 5), CRRT discontinued, and improving mental status (GCS 15 by day 5).
+
+Renal recovery: Creatinine tracked as follows: 4.8 (admission) → 5.2 (day 2 — peak) → 4.1 (day 4) → 3.0 (day 6) → 2.2 (day 8) → 1.9 mg/dL (discharge). Partial renal recovery achieved. Did not return to baseline of 1.6 mg/dL during hospitalization — nephrology follow-up arranged for 4 weeks.
+
+Antibiotics: IV ceftriaxone transitioned to oral trimethoprim-sulfamethoxazole on day 6 (per sensitivities and improving clinical status). Total antibiotic course 14 days.
+
+Glycemic control: Insulin infusion transitioned to subcutaneous basal-bolus regimen. Hyperglycemia improved. Metformin permanently withheld pending renal recovery (contraindicated with creatinine >1.8 in elderly).
+
+=== ASSESSMENT AND PLAN ===
+1. Septic shock from E. coli urosepsis/pyelonephritis — source controlled (no surgical intervention required, no abscess). E. coli bacteremia treated with 14-day ceftriaxone/TMP-SMX course. Vasopressors weaned by day 5. Clinically resolved.
+2. Acute kidney injury Stage 3 (KDIGO) on CKD Stage 3b — multifactorial (sepsis, hypoperfusion, contrast-free). Required 4 days CRRT. Partial recovery to creatinine 1.9 mg/dL at discharge. Nephrology follow-up in 4 weeks for reassessment and decision on long-term dialysis need.
+3. Hyperkalemia — resolved with CRRT. Monitor on discharge.
+4. Metabolic acidosis — resolved with CRRT and antibiotics.
+5. Septic encephalopathy / delirium — resolved with treatment of underlying sepsis. GCS 15 on discharge.
+6. Type 2 diabetes mellitus — metformin permanently held. Outpatient diabetes management review needed. HbA1c 8.3%.
+7. Paroxysmal atrial fibrillation — rate-controlled. Apixaban resumed at dose-adjusted 2.5mg BD. CHA2DS2-VASc 6.
+8. Hypertension — lisinopril held. Amlodipine continued. Lisinopril can be reconsidered at nephrology follow-up once creatinine stable.
+9. Osteoporosis — denosumab continued on schedule.
+
+=== DISCHARGE INSTRUCTIONS ===
+Patient discharged home with her daughter as primary caregiver. Home nursing arranged for medication management. Complete oral antibiotic course (TMP-SMX). Monitor urine for recurrent symptoms. Strict fluid intake instructions. Do NOT restart metformin without nephrology clearance. Continue apixaban, diltiazem, amlodipine. Daily weights. Follow-up with nephrology in 4 weeks. Primary care follow-up in 1 week. Urology referral placed for recurrent UTI workup (3 episodes in 2 years). Patient educated on early UTI symptom recognition and when to seek emergency care.
+
+Attending Physicians: Dr. W. Obi, MD (Nephrology) and Dr. L. Stein, MD (Critical Care)  |  Signed: 2025-08-22

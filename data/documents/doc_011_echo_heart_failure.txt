@@ -1,0 +1,46 @@
+PATIENT: Raymond C., DOB: 1955-01-27  |  MRN: 1112045  |  ENCOUNTER: 2025-10-29
+DOCUMENT TYPE: Cardiology Report — Transthoracic Echocardiogram (TTE)  |  DEPARTMENT: Cardiology / Non-Invasive Imaging
+ORDERING PHYSICIAN: Dr. B. Okafor, MD (Cardiology)  |  PERFORMING/READING CARDIOLOGIST: Dr. J. Larsen, MD, FASE
+
+CLINICAL INDICATION
+70-year-old male with history of ischemic cardiomyopathy, known reduced ejection fraction (last EF 32% two years ago), now presenting with worsening shortness of breath, bilateral lower extremity edema, orthopnea (3-pillow), and paroxysmal nocturnal dyspnea. BNP markedly elevated at 2,140 pg/mL. Evaluate for change in ventricular function and hemodynamic status. History of hypertension and atrial fibrillation.
+
+TECHNIQUE
+Comprehensive transthoracic echocardiogram performed per standard ASE protocol. Images acquired in parasternal long axis, parasternal short axis, apical four-chamber, apical two-chamber, apical three-chamber, and subcostal views. Color flow Doppler, pulsed-wave Doppler, and continuous-wave Doppler applied. Tissue Doppler imaging performed at the mitral annulus. Contrast was not required. Study quality: adequate.
+
+MEASUREMENTS
+Left ventricle: LV end-diastolic dimension 6.4 cm (dilated, ref <5.9 cm). LV end-systolic dimension 5.6 cm (dilated). LV ejection fraction (biplane Simpson's method) 28% (severely reduced). LV mass index 148 g/m2 (mildly increased).
+
+Right ventricle: RV basal dimension 4.2 cm (mildly dilated). TAPSE 14 mm (mildly reduced, ref >17mm). RV fractional area change 32% (mildly reduced). Qualitative RV systolic function mildly reduced.
+
+Left atrium: Left atrium severely dilated. LA volume index 54 mL/m2 (severely elevated, ref <34 mL/m2).
+
+Right atrium: Right atrium mildly dilated.
+
+Aortic valve: Trileaflet aortic valve with mild sclerosis. No significant aortic stenosis (peak gradient 16 mmHg, mean gradient 8 mmHg). Trace aortic regurgitation.
+
+Mitral valve: Mitral valve leaflets are mildly thickened. Moderate-to-severe functional mitral regurgitation identified by color flow Doppler — vena contracta 0.6 cm, ERO 0.3 cm2 — secondary to annular dilation and incomplete leaflet coaptation from LV dilation (functional/secondary MR). No structural mitral valve disease (no prolapse, no rheumatic changes).
+
+Tricuspid valve: Moderate tricuspid regurgitation by color Doppler. Estimated RV systolic pressure (RVSP) = 48 mmHg + CVP, consistent with moderate pulmonary hypertension.
+
+Pulmonary valve: No pulmonary stenosis or significant pulmonary regurgitation.
+
+Pericardium: No pericardial effusion.
+
+Inferior vena cava: IVC dilated at 2.4 cm with <50% collapse on inspiration, consistent with elevated right atrial pressure (estimated RAP 15 mmHg).
+
+Diastolic function: E/A pattern consistent with atrial fibrillation. E/e' ratio >15, suggesting elevated LV filling pressures.
+
+FINDINGS SUMMARY
+Severely reduced left ventricular ejection fraction of 28%, worse compared to prior study (EF 32% in 2023). Globally dilated left ventricle. Severely dilated left atrium. Moderate-to-severe functional mitral regurgitation secondary to LV dilation. Moderate tricuspid regurgitation. Moderate pulmonary hypertension. Elevated right atrial pressure. These findings are consistent with decompensated heart failure with reduced ejection fraction (HFrEF) with hemodynamic compromise.
+
+IMPRESSION
+1. Severely reduced LV systolic function, EF 28%, deteriorated from 32% in 2023. Global LV dilation consistent with ischemic cardiomyopathy.
+2. Moderate-to-severe functional mitral regurgitation secondary to annular dilation. Consideration for MitraClip or surgical mitral repair at multidisciplinary heart failure conference.
+3. Moderate tricuspid regurgitation with estimated RVSP 48 mmHg + CVP — moderate pulmonary hypertension.
+4. Severely dilated left atrium consistent with long-standing atrial fibrillation and elevated filling pressures.
+5. Elevated right atrial pressure by IVC plethora (estimated RAP 15 mmHg). Findings consistent with decompensated HFrEF and volume overload.
+6. Recommend urgent heart failure team review and optimization of guideline-directed medical therapy (GDMT). Consider repeat echo after medical optimization.
+
+Report electronically signed by: Dr. J. Larsen, MD, FASE, Non-Invasive Cardiology
+Report signed: 2025-10-29 at 11:05

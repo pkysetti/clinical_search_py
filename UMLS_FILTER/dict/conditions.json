@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "source": "UMLS Metathesaurus",
+    "release": "2026AA",
+    "concept_count": 4,
+    "synonym_count": 13,
+    "source_vocabularies": "MTH,SNOMEDCT_US,MSH,NCI,RXNORM,LNC,ICD10CM,ICD9CM,HPO,MEDLINEPLUS,MTHSPL,CHV,OMIM",
+    "specificity_thresholds": {
+      "low": "<=3",
+      "medium": "<=7",
+      "high": ">7"
+    },
+    "partition": "conditions",
+    "kinds": [
+      "disorder"
+    ]
+  },
+  "concepts": [
+    {
+      "cui": "C0020538",
+      "canonical": "hypertensive disease",
+      "synonyms": [
+        "arterial hypertension",
+        "high blood pressure",
+        "high blood pressure disorder",
+        "hypertensive disorder, systemic arterial"
+      ],
+      "abbreviations": [
+        "HTN"
+      ],
+      "brands": [],
+      "icd10": "I10",
+      "rxcui": null,
+      "category": "cardiovascular",
+      "kind": "disorder",
+      "specificity": "medium",
+      "semantic_types": [
+        "Disease or Syndrome"
+      ],
+      "sources": [
+        "CHV",
+        "MTH",
+        "SNOMEDCT_US"
+      ]
+    },
+    {
+      "cui": "C0027051",
+      "canonical": "myocardial infarction",
+      "synonyms": [
+        "cardiac infarction",
+        "coronary thrombosis",
+        "heart attack",
+        "infarction of heart"
+      ],
+      "abbreviations": [
+        "AMI",
+        "MI"
+      ],
+      "brands": [],
+      "icd10": "I21",
+      "rxcui": null,
+      "category": "cardiovascular",
+      "kind": "disorder",
+      "specificity": "high",
+      "semantic_types": [
+        "Disease or Syndrome"
+      ],
+      "sources": [
+        "CHV",
+        "MSH",
+        "MTH",
+        "NCI",
+        "SNOMEDCT_US"
+      ]
+    },
+    {
+      "cui": "C0026266",
+      "canonical": "mitral valve stenosis",
+      "synonyms": [
+        "mitral stenosis"
+      ],
+      "abbreviations": [],
+      "brands": [],
+      "icd10": null,
+      "rxcui": null,
+      "category": "condition",
+      "kind": "disorder",
+      "specificity": "medium",
+      "semantic_types": [
+        "Disease or Syndrome"
+      ],
+      "sources": [
+        "MTH",
+        "SNOMEDCT_US"
+      ]
+    },
+    {
+      "cui": "C0026769",
+      "canonical": "multiple sclerosis",
+      "synonyms": [
+        "disseminated sclerosis"
+      ],
+      "abbreviations": [],
+      "brands": [],
+      "icd10": null,
+      "rxcui": null,
+      "category": "condition",
+      "kind": "disorder",
+      "specificity": "medium",
+      "semantic_types": [
+        "Disease or Syndrome"
+      ],
+      "sources": [
+        "MTH",
+        "SNOMEDCT_US"
+      ]
+    }
+  ]
+}

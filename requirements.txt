@@ -1,0 +1,27 @@
+# Clinical Document Relevancy & Search – POC
+# Tested on Python 3.10 and 3.11 (macOS + Windows)
+#
+# Install with:  pip install -r requirements.txt
+# Then run:      python -m spacy download en_core_web_sm
+
+# Core NLP
+spacy>=3.7.0,<4.0.0
+
+# Embeddings (downloads ~90 MB model on first run)
+sentence-transformers>=2.7.0,<3.0.0
+
+# Vector store (persisted to disk – no server needed)
+chromadb>=0.5.0,<1.0.0
+
+# Sparse BM25 search
+rank-bm25>=0.2.2
+
+# Utilities
+tqdm>=4.66.0
+
+# Windows-specific: chromadb needs a recent sqlite3.
+# If you see "RuntimeError: Your system has an unsupported version of sqlite3"
+# on Windows, run:  pip install pysqlite3-binary
+# and add the following to the TOP of index_documents.py and search.py:
+#   import sys, pysqlite3
+#   sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
