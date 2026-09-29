@@ -26,7 +26,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from src.config import CHROMA_DIR, BM25_DIR
-from src.nlp import SynonymIndex, load_nlp
+from src.nlp import build_concept_index, load_nlp
 from src.indexing import Embedder, VectorStore, BM25Index
 from src.retrieval import QueryProcessor, HybridRetriever
 from src.explainer import build_explanation, format_zero_result
@@ -41,7 +41,7 @@ def load_search_engine():
         sys.exit(1)
 
     print("  Loading NLP pipeline...", end=" ", flush=True)
-    synonym_index = SynonymIndex()
+    synonym_index = build_concept_index()
     nlp = load_nlp(synonym_index)
     print("done")
 

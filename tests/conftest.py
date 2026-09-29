@@ -121,7 +121,9 @@ def synonym_index():
 
 @pytest.fixture(scope="session")
 def nlp_pipeline(synonym_index):
-    return load_nlp(synonym_index)
+    # Pin the spacy engine explicitly: this suite exercises the spaCy +
+    # synonyms.json backend regardless of the production NER_ENGINE default.
+    return load_nlp(synonym_index, engine="spacy")
 
 
 @pytest.fixture(scope="session")

@@ -26,7 +26,7 @@ from .config import (
     DOCUMENTS_DIR,
 )
 from .nlp import (
-    SynonymIndex, load_nlp,
+    SynonymIndex, build_concept_index, load_nlp,
     extract_entities, expand_query, segment_sections, tokenize,
 )
 
@@ -224,7 +224,8 @@ class DocumentIndexer:
     """
 
     def __init__(self):
-        self.synonym_index = SynonymIndex()
+        # Engine-aware concept index: SynonymIndex (spacy) or UMLSConceptIndex (medspacy).
+        self.synonym_index = build_concept_index()
         self.nlp = load_nlp(self.synonym_index)
         self.embedder = Embedder()
         self.vector_store = VectorStore()

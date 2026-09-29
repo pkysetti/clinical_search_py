@@ -7,6 +7,12 @@
 # Core NLP
 spacy>=3.7.0,<4.0.0
 
+# Clinical NER — optional, enables NER_ENGINE="medspacy" (fully-UMLS mode).
+# Pulls in medspacy_quickumls + quickumls automatically.  NOTE: full UMLS
+# mode also needs a licensed UMLS database (see download_dependencies.py);
+# the default "spacy" engine does NOT require any of this.
+medspacy>=1.3,<2.0
+
 # Embeddings (downloads ~90 MB model on first run)
 sentence-transformers>=2.7.0,<3.0.0
 

@@ -3,6 +3,7 @@ Configuration for the Clinical Document Search POC.
 All paths use pathlib.Path for cross-platform compatibility (macOS + Windows).
 """
 
+import os
 from pathlib import Path
 
 # ── Directory layout ──────────────────────────────────────────────────────────
@@ -18,10 +19,21 @@ SYNONYMS_FILE  = DATA_DIR / "synonyms.json"
 CHROMA_DIR.mkdir(parents=True, exist_ok=True)
 BM25_DIR.mkdir(parents=True, exist_ok=True)
 
+# ── NER engine selection ──────────────────────────────────────────────────────
+# "medspacy" -> medspaCy + QuickUMLS UMLS-backed clinical NER (default)
+# "spacy"    -> spaCy EntityRuler + data/synonyms.json  (lightweight fallback)
+# Override without editing this file:  set env var CLINICAL_NER_ENGINE.
+NER_ENGINE = os.environ.get("CLINICAL_NER_ENGINE", "medspacy").lower()
+
+# Where the QuickUMLS database lives (built by download_dependencies.py).
+QUICKUMLS_DB_DIR = INDEX_DIR / "quickumls"
+
 # ── Embedding model ───────────────────────────────────────────────────────────
 # Default: fast general model (~90 MB, no license required).
 # For better clinical accuracy swap to: "pritamdeka/S-PubMedBert-MS-MARCO"
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+#EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+EMBEDDING_MODEL = "UFNLP/gatortron-base-2k"
+
 
 # ── spaCy model ───────────────────────────────────────────────────────────────
 # Install with: python -m spacy download en_core_web_sm

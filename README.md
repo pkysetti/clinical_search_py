@@ -118,25 +118,28 @@ cd C:\path\to\clinical_search_poc
 # 2. Create a virtual environment
 python -m venv .venv
 
-# 3. Activate it
+# 3. (One time only) Allow PowerShell to run local scripts like Activate.ps1.
+#    Windows blocks .ps1 files by default. This changes the policy for your
+#    user account only (not system-wide) and is reversible.
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+#    -> When prompted "Do you want to change the execution policy?", type Y
+
+# 4. Activate the virtual environment
 .venv\Scripts\Activate.ps1
 
-#    If you see a permissions error, first run:
-#    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-
-# 4. Install dependencies
+# 5. Install dependencies
 pip install -r requirements.txt
 
-# 5. Download the spaCy language model
+# 6. Download the spaCy language model
 python -m spacy download en_core_web_sm
 
-# 6. Verify everything is ready
+# 7. Verify everything is ready
 python setup_check.py
 
-# 7. Build the search index
+# 8. Build the search index
 python index_documents.py
 
-# 8. Run a search
+# 9. Run a search
 python search.py "type 2 diabetes with peripheral neuropathy"
 
 # Or launch interactive mode
@@ -392,9 +395,50 @@ THRESHOLDS = {
 
 ---
 
+## Choosing your NER engine & embedding model
+
+Two independent settings in `src/config.py` control the "brains" of the system.
+They are orthogonal — pick each one independently and combine freely.
+
+### NER engine (`NER_ENGINE`)
+
+| Value | Backend | Needs |
+|---|---|---|
+| `medspacy` **(default)** | medspaCy + QuickUMLS — UMLS-backed clinical entity recognition (CUIs, native negation) | `medspacy` package + a QuickUMLS db |
+| `spacy` | spaCy EntityRuler + `data/synonyms.json` — lightweight, no UMLS | nothing extra |
+
+Switch by editing the default, or per-run without touching code:
+```python
+# src/config.py
+NER_ENGINE = os.environ.get("CLINICAL_NER_ENGINE", "medspacy").lower()
+```
+```powershell
+$env:CLINICAL_NER_ENGINE = "spacy"     # fall back to the lightweight engine
+```
+
+**medspaCy prerequisites** (the `spacy` engine needs none of these):
+1. `pip install -r requirements.txt`  — pulls in `medspacy`
+2. `python download_dependencies.py`  — base model + QuickUMLS db (demo `[A]` or full licensed UMLS `[B]`)
+
+> Full UMLS mode requires a free NLM UMLS license + multi-GB source files; the
+> demo/sample UMLS works license-free for POC use.
+
+### Embedding model (`EMBEDDING_MODEL`)
+
+Controls dense-vector (semantic) similarity only — independent of the NER engine.
+Currently set to a clinical BERT:
+```python
+EMBEDDING_MODEL = "gatortron-base-2k"
+```
+Changing it changes the cosine-score scale, so **rebuild the index**
+(`python index_documents.py`) and **re-tune `THRESHOLDS` / `EXACT_MATCH_BTS_MIN`**
+(see below) — they were originally calibrated for `all-MiniLM-L6-v2`.
+
+---
+
 ## Upgrading to a clinical embedding model (optional)
 
-The default model (`all-MiniLM-L6-v2`) is fast and general-purpose.  
+The default model (`all-MiniLM-L6-v2`) is fast and general-purpose.
 For better medical text understanding, switch to a clinical model:
 
 In `src/config.py`:

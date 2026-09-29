@@ -14,6 +14,8 @@ import sys
 import importlib
 from pathlib import Path
 
+from src.config import NER_ENGINE, QUICKUMLS_DB_DIR
+
 REQUIRED = [
     ("spacy",               "spacy"),
     ("sentence_transformers","sentence-transformers"),
@@ -72,6 +74,24 @@ for label, path in checks.items():
     else:
         print(f"        ✗  {label}  MISSING")
         all_ok = False
+
+# ── Check NER engine (medspacy mode only) ────────────────────────────────────
+if NER_ENGINE == "medspacy":
+    print("\n  [NER] Checking medspaCy + QuickUMLS...")
+    try:
+        import medspacy   # noqa: F401
+        import quickumls  # noqa: F401
+        print("        ✓  medspacy + quickumls importable")
+    except ImportError as e:
+        print(f"        ✗  {getattr(e, 'name', 'medspacy')} NOT FOUND")
+        print("             Fix: pip install -r requirements.txt")
+        all_ok = False
+    if QUICKUMLS_DB_DIR.exists() and any(QUICKUMLS_DB_DIR.iterdir()):
+        print(f"        ✓  QuickUMLS db present at {QUICKUMLS_DB_DIR}")
+    else:
+        print("        ⚠  No QuickUMLS db found — medspacy mode will fall back")
+        print("           to the demo/sample UMLS or surface-form matching.")
+        print("           Run: python download_dependencies.py   (options [A]/[B])")
 
 # ── Summary ───────────────────────────────────────────────────────────────────
 print()
