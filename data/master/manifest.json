@@ -1,0 +1,76 @@
+{
+  "source": "UMLS Metathesaurus",
+  "release": "2026AA",
+  "generated_at": "2026-09-30 11:20:25",
+  "meta_dir": "C:\\Inference\\umls-2026AA-full\\2026AA-full\\2026AA\\META",
+  "concept_count": 132789,
+  "synonym_map_rows": 426690,
+  "min_synonyms": 1,
+  "max_concepts": null,
+  "chunk_size": null,
+  "files": {
+    "anatomy-terms": {
+      "columns": [
+        "cui",
+        "canonical",
+        "category",
+        "synonyms",
+        "abbreviations",
+        "semantic_types",
+        "sources"
+      ],
+      "chunks": [
+        "anatomy-terms.csv"
+      ],
+      "rows": 5884
+    },
+    "drug-master": {
+      "columns": [
+        "cui",
+        "canonical",
+        "rxcui",
+        "category",
+        "synonyms",
+        "abbreviations",
+        "brands",
+        "semantic_types",
+        "sources"
+      ],
+      "chunks": [
+        "drug-master.csv"
+      ],
+      "rows": 28304
+    },
+    "problem-terms": {
+      "columns": [
+        "cui",
+        "canonical",
+        "icd10",
+        "category",
+        "synonyms",
+        "abbreviations",
+        "semantic_types",
+        "sources"
+      ],
+      "chunks": [
+        "problem-terms.csv"
+      ],
+      "rows": 69859
+    },
+    "procedure-terms": {
+      "columns": [
+        "cui",
+        "canonical",
+        "category",
+        "synonyms",
+        "abbreviations",
+        "semantic_types",
+        "sources"
+      ],
+      "chunks": [
+        "procedure-terms.csv"
+      ],
+      "rows": 28742
+    }
+  }
+}
